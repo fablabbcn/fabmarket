@@ -1,0 +1,69 @@
+---
+title: Jack West
+showdescription: true
+description: Artist and sculptor
+project: Modelling the Machine
+showlocation: true
+location: Plymouth College of Art 
+layout: posts
+date: 2014-07-18
+img: 
+thumbnail: 
+permalink: /jack-west
+hasvideo: true
+video_embed: https://www.youtube.com/embed/jmntBWsRQ8M
+hasgallery1: true   
+gallerytitle: 
+images:
+  - image_path: /img/artists/west/residencies-plymouth-west-1
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-2
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-3
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-4
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-5
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-6
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-7
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-8
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-9
+    title: Jack West 
+                       
+hasgallery2: false       
+gallerytitle2:  
+images2:
+  - image_path2: 
+  - image_path2: 
+  - image_path2: 
+hasgallery3: false    
+gallerytitle3:  
+images3:
+  - image_path3: 
+  - image_path3: 
+  - image_path3:    
+---
+
+{% include video.html %}
+{% include photo-gallery.html %}
+
+Jack West's aim is to use digital technology already familiar to him, alongside processes he is less familiar with to create a series of small scale, almost 'absurd machine' models. They take some influence from working models, used to test out machinery in the industrial revolution. 
+
+Seeing as much of his previous work has been relatively large scale, it is interesting to see how many of the themes and ideas within his practice translate when reduced in size. Equally, using digital technology can often restrict the act of 'play' that can be crucial to finding new ways of working. 
+
+"A funded residency where digital processes take centre stage would allow me to explore these technologies in ways that may be difficult otherwise" states West about the experience. 
+
+ 
+<div style="border-top: 3px solid; border-color: black; margin: 50px 0px 0px 0px; padding-top: 50px; padding-bottom: 40px; font-size: 17px; line-height: 27px;">
+
+<b>Jack West is a sculptor</b> creating large-scale objects within the studio but also working on machine objects and landscapes digitally, using 3D technology to render out CGI videos. Using these two modes of working allows ideas and objects to transfer between the two spaces. This interplay between the digital and the real, and the ways in which machines as a whole affect our experience of work and labour is at the center of his practice.
+
+</div>
+
+#### For more info visit: [http://www.jackwest.co.uk/](http://www.jackwest.co.uk/)
+
+

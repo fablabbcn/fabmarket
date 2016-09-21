@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Made@Eu</title>
+    <description>Digital fabrication for the crafts</description>
+    <link>http://127.0.0.1:4000//</link>
+    <atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 20 Sep 2016 19:24:42 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2016 19:24:42 +0200</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Made@Eu Workshops</title>
+        <description>&lt;p&gt;The Made@EU project also consists of a series of 5 workshops in Barcelona, Paris, Plymouth, Budapest and Amsterdam.&lt;/p&gt;
+
+&lt;!-- Pages Mosaic --&gt;
+
+&lt;div class=&quot;row text-center&quot; style=&quot;margin-right:0px; margin-left: 0px; margin-top: 10px;&quot;&gt;
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/workshops-bcn&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/workshops/barcelona/workshops-barcelona-1-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Barcelona/Valldaura
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/workshops-par&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/workshops/paris/workshops-paris-1-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Paris
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/workshops-ply&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/workshops/plymouth/workshops-plymouth-1-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Plymouth
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/workshops-bud&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/workshops/budapest/workshops-budapest-1-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Budapest
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/workshops-ams&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/workshops/amsterdam/workshops-amsterdam-1-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Amsterdam
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/residencies&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/mosaic/residencies-thumbnail.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Also check out the residencies &amp;#62;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;These workshops are designed to impact directly the bridging of the “digital divide”, fostering and curating the creation of products and projects which clearly represent the spirit of the Made@EU project.They are directed at all members from the European creative sectors such as product designers, fashion designers and craftspeople such as potters, metal smiths, glassmakers, woodworkers, ceramists and mixed media artists.&lt;/p&gt;
+
+&lt;p&gt;The Workshops are based on a 5 day BootCamp model developed by the FabLab Network and involve both theoretic and practical instruction centred around the following digital fabrication tools:&lt;/p&gt;
+
+&lt;p&gt;• 3D Printing&lt;/p&gt;
+
+&lt;p&gt;• 3D Scanning&lt;/p&gt;
+
+&lt;p&gt;• Laser Cutting&lt;/p&gt;
+
+&lt;p&gt;• CNC Milling&lt;/p&gt;
+
+&lt;p&gt;• PCB Milling&lt;/p&gt;
+
+&lt;p&gt;• Moulding and Casting&lt;/p&gt;
+
+&lt;p&gt;• Plasma Cutting&lt;/p&gt;
+
+&lt;p&gt;• Vinyl Cutting&lt;/p&gt;
+
+&lt;p&gt;Participants not only receive theoretic instruction on each process, but also take an active role and acquire hands on experience in the use of all equipment.&lt;/p&gt;
+
+&lt;p&gt;The workshops are taught by one local instructor and one instructor from one of the partner institutions order to promote the cross flow of knowledge between experts from the different partners.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000//workshops</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//workshops</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Made@Eu Workshop Plymouth</title>
+        <description>&lt;p&gt;The Made@EU project consists of a series of 5 workshops in Barcelona, Paris, Plymouth, Budapest and Amsterdam, directed for all members from the European creative sectors such as product designers, fashion designers, craftspeople such as potters, metal smiths, glassmakers, woodworkers, ceramists and mixed media artists.&lt;/p&gt;
+
+&lt;!-- Video Frame --&gt;
+&lt;div&gt;
+
+		
+	
+
+	
+&lt;/div&gt;
+
+&lt;!-- Photo Gallery --&gt;
+&lt;div style=&quot;padding-top:0px; padding-bottom: 40px;&quot;&gt;
+
+	
+		&lt;h3 class=&quot;section-sub-subheading&quot;&gt; Plymouth Workshops @Plymouth College of Arts &lt;/h3&gt;
+		&lt;div class=&quot;row text-center&quot; style=&quot;margin-right: 0px; margin-left: 0px; padding-bottom: 30px;&quot;&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-1.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-1.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-1-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-2.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-2.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-2-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-3.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-3.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-3-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-4.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-4.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-4-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-5.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-5.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-5-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-6.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-6.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-6-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-7.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-7.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-7-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-8.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-8.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-8-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-9.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-9.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-9-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-10.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-10.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-10-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-11.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-11.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-11-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-12.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-12.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-12-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-13.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-13.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-13-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-14.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-14.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-14-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/plymouth/workshops-plymouth-15.jpg&quot; data-href=&quot;/img/workshops/plymouth/workshops-plymouth-15.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/plymouth/workshops-plymouth-15-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+		&lt;/div&gt;
+		
+	
+
+	
+
+
+	
+
+	
+
+	
+
+
+&lt;/div&gt;
+
+&lt;!--Modals --&gt;
+&lt;div class=&quot;modal fade&quot; id=&quot;image-gallery&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;myModalLabel&quot; aria-hidden=&quot;true&quot;&gt;
+	&lt;div class=&quot;modal-dialog&quot;&gt;
+
+	        	&lt;div class=&quot;modal-content&quot;&gt;
+	            &lt;div class=&quot;modal-header&quot;&gt; 
+	                &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;×&lt;/span&gt;&lt;span class=&quot;sr-only&quot;&gt;Close&lt;/span&gt;&lt;/button&gt;
+	               &lt;!-- &lt;h4 class=&quot;modal-title&quot; id=&quot;image-gallery-title&quot;&gt;&lt;/h4&gt;--&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-body&quot;&gt;
+	                &lt;img id=&quot;image-gallery-image&quot; class=&quot;img-responsive&quot; src=&quot;&quot; /&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-footer&quot;&gt;
+
+	                &lt;div class=&quot;col-md-2 pull-left&quot;&gt;
+	                    &lt;button type=&quot;button&quot; class=&quot;btn btn-default&quot; id=&quot;show-previous-image&quot;&gt;&lt;i class=&quot;fa fa-arrow-left&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;div class=&quot;col-md-2 pull-right&quot; style=&quot;padding-right: 0px;&quot;&gt;
+	                    &lt;button type=&quot;button&quot; id=&quot;show-next-image&quot; class=&quot;btn btn-default&quot;&gt;&lt;i class=&quot;fa fa-arrow-right&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;!--
+	                 &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-caption&quot;&gt;
+	                    This text will be overwritten by jQuery
+	                &lt;/div&gt;--&gt;
+	                &lt;!--
+	                &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-link&quot;&gt;
+	                    &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;I'll be changed&lt;/a&gt;
+	                &lt;/div&gt;
+	            	--&gt;
+	            &lt;/div&gt;
+	        &lt;/div&gt;
+ 
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Plymouth’s workshop takes place at FabLab Plymouth, which is a digital fabrication laboratory based on the Plymouth College of Art Campus. This facility is part of the international FabLab network which includes over 250 Labs across more than 30 countries. Fab Lab Plymouth is unique in that it is situated next to the craft and design workshop complex which creates the perfect setting for traditional crafts and new technologies to merge with exciting consequences.&lt;/p&gt;
+
+&lt;h4 id=&quot;for-more-info-visit-httphttpfablabplymouthartacukhttpfablabplymouthartacuk-and-wwwplymouthartacukwwwplymouthartacuk&quot;&gt;For more info visit: &lt;a href=&quot;http://fablab.plymouthart.ac.uk/&quot;&gt;http://http://fablab.plymouthart.ac.uk/&lt;/a&gt; and &lt;a href=&quot;www.plymouthart.ac.uk/&quot;&gt;www.plymouthart.ac.uk/&lt;/a&gt;&lt;/h4&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000//workshops-ply</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//workshops-ply</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Made@Eu Workshop Paris</title>
+        <description>&lt;p&gt;The Made@EU project consists of a series of 5 workshops in Barcelona, Paris, Plymouth, Budapest and Amsterdam, directed for all members from the European creative sectors such as product designers, fashion designers, craftspeople such as potters, metal smiths, glassmakers, woodworkers, ceramists and mixed media artists.&lt;/p&gt;
+
+&lt;!-- Video Frame --&gt;
+&lt;div&gt;
+
+	
+		&lt;div class=&quot;row text-center&quot; style=&quot;margin-right: 0px; margin-left: 0px; padding-bottom: 30px;&quot;&gt;
+       		&lt;div class=&quot;videoWrapper&quot;&gt;
+				&lt;iframe src=&quot;https://www.youtube.com/embed/u8hV8oeY3Lw?vq=hd1080&amp;amp;rel=0&amp;amp;theme=light&amp;amp;color=white&amp;amp;showinfo=0&amp;amp;modestbranding=1&amp;amp;controls=2&amp;amp;autohide=1&quot; width=&quot;720&quot; height=&quot;405&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		
+	
+
+	
+&lt;/div&gt;
+
+&lt;!-- Photo Gallery --&gt;
+&lt;div style=&quot;padding-top:0px; padding-bottom: 40px;&quot;&gt;
+
+	
+		&lt;h3 class=&quot;section-sub-subheading&quot;&gt; Paris Workshop @ENSCI Les Ateliers &lt;/h3&gt;
+		&lt;div class=&quot;row text-center&quot; style=&quot;margin-right: 0px; margin-left: 0px; padding-bottom: 30px;&quot;&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-1.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-1.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-1-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-2.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-2.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-2-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-3.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-3.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-3-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-4.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-4.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-4-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-5.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-5.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-5-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-6.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-6.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-6-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-7.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-7.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-7-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-8.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-8.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-8-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-9.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-9.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-9-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-10.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-10.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-10-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-11.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-11.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-11-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-12.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-12.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-12-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-13.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-13.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-13-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-14.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-14.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-14-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-15.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-15.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-15-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-16.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-16.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-16-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-17.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-17.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-17-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/paris/workshops-paris-18.jpg&quot; data-href=&quot;/img/workshops/paris/workshops-paris-18.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/paris/workshops-paris-18-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+		&lt;/div&gt;
+		
+	
+
+	
+
+
+	
+
+	
+
+	
+
+
+&lt;/div&gt;
+
+&lt;!--Modals --&gt;
+&lt;div class=&quot;modal fade&quot; id=&quot;image-gallery&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;myModalLabel&quot; aria-hidden=&quot;true&quot;&gt;
+	&lt;div class=&quot;modal-dialog&quot;&gt;
+
+	        	&lt;div class=&quot;modal-content&quot;&gt;
+	            &lt;div class=&quot;modal-header&quot;&gt; 
+	                &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;×&lt;/span&gt;&lt;span class=&quot;sr-only&quot;&gt;Close&lt;/span&gt;&lt;/button&gt;
+	               &lt;!-- &lt;h4 class=&quot;modal-title&quot; id=&quot;image-gallery-title&quot;&gt;&lt;/h4&gt;--&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-body&quot;&gt;
+	                &lt;img id=&quot;image-gallery-image&quot; class=&quot;img-responsive&quot; src=&quot;&quot; /&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-footer&quot;&gt;
+
+	                &lt;div class=&quot;col-md-2 pull-left&quot;&gt;
+	                    &lt;button type=&quot;button&quot; class=&quot;btn btn-default&quot; id=&quot;show-previous-image&quot;&gt;&lt;i class=&quot;fa fa-arrow-left&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;div class=&quot;col-md-2 pull-right&quot; style=&quot;padding-right: 0px;&quot;&gt;
+	                    &lt;button type=&quot;button&quot; id=&quot;show-next-image&quot; class=&quot;btn btn-default&quot;&gt;&lt;i class=&quot;fa fa-arrow-right&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;!--
+	                 &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-caption&quot;&gt;
+	                    This text will be overwritten by jQuery
+	                &lt;/div&gt;--&gt;
+	                &lt;!--
+	                &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-link&quot;&gt;
+	                    &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;I'll be changed&lt;/a&gt;
+	                &lt;/div&gt;
+	            	--&gt;
+	            &lt;/div&gt;
+	        &lt;/div&gt;
+ 
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Paris’ workshop takes place at ENSCI - Les Ateliers Fab Lab, an interdisciplinary, industrial design, graduate-level school in the heart of Paris. Founded in 1982, ENSCI-Les Ateliers is jointly governed by the Ministries of Culture and Industry. The School offers advanced study, consultancy and research in all aspects of contemporary design practice and now, after 30 years of its foundation, works around a Fablab to be in concordance with the importance of manufacturing and workshops in the process of creating and learning.&lt;/p&gt;
+
+&lt;p&gt;Watch the interviews:&lt;/p&gt;
+
+&lt;!--&lt;div class=&quot;videoWrapper&quot;&gt; --&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLeabwDwnzHDBjDyNNj7acAj7DNiPK32hD&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;!--&lt;/div&gt;--&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;for-more-info-visit-httpwwwenscicomhttpwwwenscicom&quot;&gt;For more info visit: &lt;a href=&quot;http://www.ensci.com/&quot;&gt;http://www.ensci.com/&lt;/a&gt;&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000//workshops-par</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//workshops-par</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Made@Eu Workshop Budapest</title>
+        <description>&lt;p&gt;The Made@EU project consists of a series of 5 workshops in Barcelona, Paris, Plymouth, Budapest and Amsterdam, directed for all members from the European creative sectors such as product designers, fashion designers, craftspeople such as potters, metal smiths, glassmakers, woodworkers, ceramists and mixed media artists.&lt;/p&gt;
+
+&lt;!-- Video Frame --&gt;
+&lt;div&gt;
+
+	
+		&lt;div class=&quot;row text-center&quot; style=&quot;margin-right: 0px; margin-left: 0px; padding-bottom: 30px;&quot;&gt;
+       		&lt;div class=&quot;videoWrapper&quot;&gt;
+				&lt;iframe src=&quot;https://www.youtube.com/embed/pIopa8nbe3s?vq=hd1080&amp;amp;rel=0&amp;amp;theme=light&amp;amp;color=white&amp;amp;showinfo=0&amp;amp;modestbranding=1&amp;amp;controls=2&amp;amp;autohide=1&quot; width=&quot;720&quot; height=&quot;405&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		
+	
+
+	
+&lt;/div&gt;
+
+&lt;!-- Photo Gallery --&gt;
+&lt;div style=&quot;padding-top:0px; padding-bottom: 40px;&quot;&gt;
+
+	
+		&lt;h3 class=&quot;section-sub-subheading&quot;&gt; Barcelona Workshops @FabLab Budapest &lt;/h3&gt;
+		&lt;div class=&quot;row text-center&quot; style=&quot;margin-right: 0px; margin-left: 0px; padding-bottom: 30px;&quot;&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-1.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-1.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-1-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-2.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-2.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-2-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-3.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-3.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-3-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-4.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-4.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-4-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-5.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-5.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-5-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-6.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-6.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-6-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-7.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-7.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-7-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-8.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-8.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-8-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-9.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-9.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-9-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-10.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-10.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-10-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-11.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-11.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-11-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-12.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-12.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-12-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-13.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-13.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-13-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-14.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-14.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-14-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/budapest/workshops-budapest-15.jpg&quot; data-href=&quot;/img/workshops/budapest/workshops-budapest-15.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/budapest/workshops-budapest-15-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+		&lt;/div&gt;
+		
+	
+
+	
+
+
+	
+
+	
+
+	
+
+
+&lt;/div&gt;
+
+&lt;!--Modals --&gt;
+&lt;div class=&quot;modal fade&quot; id=&quot;image-gallery&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;myModalLabel&quot; aria-hidden=&quot;true&quot;&gt;
+	&lt;div class=&quot;modal-dialog&quot;&gt;
+
+	        	&lt;div class=&quot;modal-content&quot;&gt;
+	            &lt;div class=&quot;modal-header&quot;&gt; 
+	                &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;×&lt;/span&gt;&lt;span class=&quot;sr-only&quot;&gt;Close&lt;/span&gt;&lt;/button&gt;
+	               &lt;!-- &lt;h4 class=&quot;modal-title&quot; id=&quot;image-gallery-title&quot;&gt;&lt;/h4&gt;--&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-body&quot;&gt;
+	                &lt;img id=&quot;image-gallery-image&quot; class=&quot;img-responsive&quot; src=&quot;&quot; /&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-footer&quot;&gt;
+
+	                &lt;div class=&quot;col-md-2 pull-left&quot;&gt;
+	                    &lt;button type=&quot;button&quot; class=&quot;btn btn-default&quot; id=&quot;show-previous-image&quot;&gt;&lt;i class=&quot;fa fa-arrow-left&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;div class=&quot;col-md-2 pull-right&quot; style=&quot;padding-right: 0px;&quot;&gt;
+	                    &lt;button type=&quot;button&quot; id=&quot;show-next-image&quot; class=&quot;btn btn-default&quot;&gt;&lt;i class=&quot;fa fa-arrow-right&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;!--
+	                 &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-caption&quot;&gt;
+	                    This text will be overwritten by jQuery
+	                &lt;/div&gt;--&gt;
+	                &lt;!--
+	                &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-link&quot;&gt;
+	                    &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;I'll be changed&lt;/a&gt;
+	                &lt;/div&gt;
+	            	--&gt;
+	            &lt;/div&gt;
+	        &lt;/div&gt;
+ 
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Budapest’s workshop takes place at the FabLab Budapest, where the motto is “Materialise your dreams!”. It’s an individual Fab Lab in the city’s downtown.  In cooperation with the Asimov Foundation they host the first BioHack space in the country. Tiny but growing and open for everybody from kids to crazy scientists.&lt;/p&gt;
+
+&lt;h4 id=&quot;for-more-info-visit-httpswwwfablabsiofablabbudapesthttpswwwfablabsiofablabbudapest&quot;&gt;For more info visit: &lt;a href=&quot;https://www.fablabs.io/fablabbudapest&quot;&gt;https://www.fablabs.io/fablabbudapest&lt;/a&gt;&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000//workshops-bud</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//workshops-bud</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Made@Eu Workshop Barcelona</title>
+        <description>&lt;p&gt;The Made@EU project consists of a series of 5 workshops in Barcelona, Paris, Plymouth, Budapest and Amsterdam, directed for all members from the European creative sectors such as product designers, fashion designers, craftspeople such as potters, metal smiths, glassmakers, woodworkers, ceramists and mixed media artists.&lt;/p&gt;
+
+&lt;!-- Video Frame --&gt;
+&lt;div&gt;
+
+	
+		&lt;div class=&quot;row text-center&quot; style=&quot;margin-right: 0px; margin-left: 0px; padding-bottom: 30px;&quot;&gt;
+       		&lt;div class=&quot;videoWrapper&quot;&gt;
+				&lt;iframe src=&quot;https://www.youtube.com/embed/YJNaPONnDnc?vq=hd1080&amp;amp;rel=0&amp;amp;theme=light&amp;amp;color=white&amp;amp;showinfo=0&amp;amp;modestbranding=1&amp;amp;controls=2&amp;amp;autohide=1&quot; width=&quot;720&quot; height=&quot;405&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		
+	
+
+	
+&lt;/div&gt;
+
+&lt;!-- Photo Gallery --&gt;
+&lt;div style=&quot;padding-top:0px; padding-bottom: 40px;&quot;&gt;
+
+	
+		&lt;h3 class=&quot;section-sub-subheading&quot;&gt; Barcelona Workshops @Green Fab Lab Valldaura / Barcelona &lt;/h3&gt;
+		&lt;div class=&quot;row text-center&quot; style=&quot;margin-right: 0px; margin-left: 0px; padding-bottom: 30px;&quot;&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-1.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-1.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-1-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-2.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-2.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-2-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-3.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-3.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-3-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-4.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-4.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-4-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-5.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-5.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-5-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-6.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-6.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-6-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-7.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-7.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-7-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-8.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-8.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-8-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-9.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-9.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-9-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-10.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-10.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-10-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-11.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-11.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-11-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-12.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-12.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-12-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-13.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-13.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-13-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-15.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-15.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-15-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/barcelona/workshops-barcelona-18.jpg&quot; data-href=&quot;/img/workshops/barcelona/workshops-barcelona-18.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/barcelona/workshops-barcelona-18-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+		&lt;/div&gt;
+		
+	
+
+	
+
+
+	
+
+	
+
+	
+
+
+&lt;/div&gt;
+
+&lt;!--Modals --&gt;
+&lt;div class=&quot;modal fade&quot; id=&quot;image-gallery&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;myModalLabel&quot; aria-hidden=&quot;true&quot;&gt;
+	&lt;div class=&quot;modal-dialog&quot;&gt;
+
+	        	&lt;div class=&quot;modal-content&quot;&gt;
+	            &lt;div class=&quot;modal-header&quot;&gt; 
+	                &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;×&lt;/span&gt;&lt;span class=&quot;sr-only&quot;&gt;Close&lt;/span&gt;&lt;/button&gt;
+	               &lt;!-- &lt;h4 class=&quot;modal-title&quot; id=&quot;image-gallery-title&quot;&gt;&lt;/h4&gt;--&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-body&quot;&gt;
+	                &lt;img id=&quot;image-gallery-image&quot; class=&quot;img-responsive&quot; src=&quot;&quot; /&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-footer&quot;&gt;
+
+	                &lt;div class=&quot;col-md-2 pull-left&quot;&gt;
+	                    &lt;button type=&quot;button&quot; class=&quot;btn btn-default&quot; id=&quot;show-previous-image&quot;&gt;&lt;i class=&quot;fa fa-arrow-left&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;div class=&quot;col-md-2 pull-right&quot; style=&quot;padding-right: 0px;&quot;&gt;
+	                    &lt;button type=&quot;button&quot; id=&quot;show-next-image&quot; class=&quot;btn btn-default&quot;&gt;&lt;i class=&quot;fa fa-arrow-right&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;!--
+	                 &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-caption&quot;&gt;
+	                    This text will be overwritten by jQuery
+	                &lt;/div&gt;--&gt;
+	                &lt;!--
+	                &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-link&quot;&gt;
+	                    &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;I'll be changed&lt;/a&gt;
+	                &lt;/div&gt;
+	            	--&gt;
+	            &lt;/div&gt;
+	        &lt;/div&gt;
+ 
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Barcelona’s workshop takes place at the Green Fab Lab in Valldaura, a project promoted by IaaC (Institute for Advanced Architecture of Catalonia) and part of the Fab City network. The Green Fab Lab works towards the creation of a self-sufficient habitat and research centre at Can Valldaura. Located in the Collserola Natural Park, in the heart of the metropolitan area of Barcelona it has laboratories for the production of energy, food and things, and develops projects and academic programmes in association with leading research centres around the world.&lt;/p&gt;
+
+&lt;p&gt;Fab Lab Barcelona, which is part of the Institute for Advanced Architecture of Catalonia, supports different educational and research programs related with the multiple scales of the human habitat. It is also the headquarters of the global coordination of the Fab Academy program in collaboration with the Fab Foundation and the MIT’s Center for Bits and Atoms; the Fab Academy is a distributed platform of education and research in which each Fab Labs operates as a classroom and the planet as the campus of the largest University in construction in the world, where students learn about the principles, applications and implications of digital manufacturing technology.&lt;/p&gt;
+
+&lt;h4 id=&quot;for-more-info-visit-httpgreenfablaborghttpgreenfablaborg-and-httpfablabbcnorghttpfablabbcnorg&quot;&gt;For more info visit: &lt;a href=&quot;http://greenfablab.org/&quot;&gt;http://greenfablab.org/&lt;/a&gt; and &lt;a href=&quot;http://fablabbcn.org/&quot;&gt;http://fablabbcn.org/&lt;/a&gt;&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000//workshops-bcn</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//workshops-bcn</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Made@Eu Workshop Amsterdam</title>
+        <description>&lt;p&gt;The Made@EU project consists of a series of 5 workshops in Barcelona, Paris, Plymouth, Budapest and Amsterdam, directed for all members from the European creative sectors such as product designers, fashion designers, craftspeople such as potters, metal smiths, glassmakers, woodworkers, ceramists and mixed media artists.&lt;/p&gt;
+
+&lt;!-- Video Frame --&gt;
+&lt;div&gt;
+
+	
+		&lt;div class=&quot;row text-center&quot; style=&quot;margin-right: 0px; margin-left: 0px; padding-bottom: 30px;&quot;&gt;
+       		&lt;div class=&quot;videoWrapper&quot;&gt;
+				&lt;iframe src=&quot;https://www.youtube.com/embed/zLBzvL5Td4A?vq=hd1080&amp;amp;rel=0&amp;amp;theme=light&amp;amp;color=white&amp;amp;showinfo=0&amp;amp;modestbranding=1&amp;amp;controls=2&amp;amp;autohide=1&quot; width=&quot;720&quot; height=&quot;405&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		
+	
+
+	
+&lt;/div&gt;
+
+&lt;!-- Photo Gallery --&gt;
+&lt;div style=&quot;padding-top:0px; padding-bottom: 40px;&quot;&gt;
+
+	
+		&lt;h3 class=&quot;section-sub-subheading&quot;&gt; Amsterdam Workshops @Fab Lab Amsterdam &lt;/h3&gt;
+		&lt;div class=&quot;row text-center&quot; style=&quot;margin-right: 0px; margin-left: 0px; padding-bottom: 30px;&quot;&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/amsterdam/workshops-amsterdam-1.jpg&quot; data-href=&quot;/img/workshops/amsterdam/workshops-amsterdam-1.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/amsterdam/workshops-amsterdam-1-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/amsterdam/workshops-amsterdam-2.jpg&quot; data-href=&quot;/img/workshops/amsterdam/workshops-amsterdam-2.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/amsterdam/workshops-amsterdam-2-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/amsterdam/workshops-amsterdam-3.jpg&quot; data-href=&quot;/img/workshops/amsterdam/workshops-amsterdam-3.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/amsterdam/workshops-amsterdam-3-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/amsterdam/workshops-amsterdam-4.jpg&quot; data-href=&quot;/img/workshops/amsterdam/workshops-amsterdam-4.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/amsterdam/workshops-amsterdam-4-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/amsterdam/workshops-amsterdam-5.jpg&quot; data-href=&quot;/img/workshops/amsterdam/workshops-amsterdam-5.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/amsterdam/workshops-amsterdam-5-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/amsterdam/workshops-amsterdam-6.jpg&quot; data-href=&quot;/img/workshops/amsterdam/workshops-amsterdam-6.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/amsterdam/workshops-amsterdam-6-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/amsterdam/workshops-amsterdam-8.jpg&quot; data-href=&quot;/img/workshops/amsterdam/workshops-amsterdam-8.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/amsterdam/workshops-amsterdam-8-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/amsterdam/workshops-amsterdam-9.jpg&quot; data-href=&quot;/img/workshops/amsterdam/workshops-amsterdam-9.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/amsterdam/workshops-amsterdam-9-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/workshops/amsterdam/workshops-amsterdam-10.jpg&quot; data-href=&quot;/img/workshops/amsterdam/workshops-amsterdam-10.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/workshops/amsterdam/workshops-amsterdam-10-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+		&lt;/div&gt;
+		
+	
+
+	
+
+
+	
+
+	
+
+	
+
+
+&lt;/div&gt;
+
+&lt;!--Modals --&gt;
+&lt;div class=&quot;modal fade&quot; id=&quot;image-gallery&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;myModalLabel&quot; aria-hidden=&quot;true&quot;&gt;
+	&lt;div class=&quot;modal-dialog&quot;&gt;
+
+	        	&lt;div class=&quot;modal-content&quot;&gt;
+	            &lt;div class=&quot;modal-header&quot;&gt; 
+	                &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;×&lt;/span&gt;&lt;span class=&quot;sr-only&quot;&gt;Close&lt;/span&gt;&lt;/button&gt;
+	               &lt;!-- &lt;h4 class=&quot;modal-title&quot; id=&quot;image-gallery-title&quot;&gt;&lt;/h4&gt;--&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-body&quot;&gt;
+	                &lt;img id=&quot;image-gallery-image&quot; class=&quot;img-responsive&quot; src=&quot;&quot; /&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-footer&quot;&gt;
+
+	                &lt;div class=&quot;col-md-2 pull-left&quot;&gt;
+	                    &lt;button type=&quot;button&quot; class=&quot;btn btn-default&quot; id=&quot;show-previous-image&quot;&gt;&lt;i class=&quot;fa fa-arrow-left&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;div class=&quot;col-md-2 pull-right&quot; style=&quot;padding-right: 0px;&quot;&gt;
+	                    &lt;button type=&quot;button&quot; id=&quot;show-next-image&quot; class=&quot;btn btn-default&quot;&gt;&lt;i class=&quot;fa fa-arrow-right&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;!--
+	                 &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-caption&quot;&gt;
+	                    This text will be overwritten by jQuery
+	                &lt;/div&gt;--&gt;
+	                &lt;!--
+	                &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-link&quot;&gt;
+	                    &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;I'll be changed&lt;/a&gt;
+	                &lt;/div&gt;
+	            	--&gt;
+	            &lt;/div&gt;
+	        &lt;/div&gt;
+ 
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Amsterdam’s workshop takes place at Fab Lab Amsterdam, which is located in the oldest non religious building in the center of the city, at the Nieuwmarkt. Fab Lab Amsterdam believes in the combination of good old fashion craftsmanship combined with digital fabrication and biotechnology.&lt;/p&gt;
+
+&lt;h4 id=&quot;for-more-info-visit-httpfablabwaagorghttpfablabwaagorg&quot;&gt;For more info visit: &lt;a href=&quot;http://fablab.waag.org/&quot;&gt;http://fablab.waag.org/&lt;/a&gt;&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000//workshops-ams</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//workshops-ams</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Roman Torre</title>
+        <description>&lt;!-- Photo Gallery --&gt;
+&lt;div style=&quot;padding-top:0px; padding-bottom: 40px;&quot;&gt;
+
+	
+		&lt;h3 class=&quot;section-sub-subheading&quot;&gt;  &lt;/h3&gt;
+		&lt;div class=&quot;row text-center&quot; style=&quot;margin-right: 0px; margin-left: 0px; padding-bottom: 30px;&quot;&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/torre/residencies-barcelona-torre-1.jpg&quot; data-href=&quot;/img/artists/torre/residencies-barcelona-torre-1.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/torre/residencies-barcelona-torre-1-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+		&lt;/div&gt;
+		
+	
+
+	
+
+
+	
+
+	
+
+	
+
+
+&lt;/div&gt;
+
+&lt;!--Modals --&gt;
+&lt;div class=&quot;modal fade&quot; id=&quot;image-gallery&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;myModalLabel&quot; aria-hidden=&quot;true&quot;&gt;
+	&lt;div class=&quot;modal-dialog&quot;&gt;
+
+	        	&lt;div class=&quot;modal-content&quot;&gt;
+	            &lt;div class=&quot;modal-header&quot;&gt; 
+	                &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;×&lt;/span&gt;&lt;span class=&quot;sr-only&quot;&gt;Close&lt;/span&gt;&lt;/button&gt;
+	               &lt;!-- &lt;h4 class=&quot;modal-title&quot; id=&quot;image-gallery-title&quot;&gt;&lt;/h4&gt;--&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-body&quot;&gt;
+	                &lt;img id=&quot;image-gallery-image&quot; class=&quot;img-responsive&quot; src=&quot;&quot; /&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-footer&quot;&gt;
+
+	                &lt;div class=&quot;col-md-2 pull-left&quot;&gt;
+	                    &lt;button type=&quot;button&quot; class=&quot;btn btn-default&quot; id=&quot;show-previous-image&quot;&gt;&lt;i class=&quot;fa fa-arrow-left&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;div class=&quot;col-md-2 pull-right&quot; style=&quot;padding-right: 0px;&quot;&gt;
+	                    &lt;button type=&quot;button&quot; id=&quot;show-next-image&quot; class=&quot;btn btn-default&quot;&gt;&lt;i class=&quot;fa fa-arrow-right&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;!--
+	                 &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-caption&quot;&gt;
+	                    This text will be overwritten by jQuery
+	                &lt;/div&gt;--&gt;
+	                &lt;!--
+	                &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-link&quot;&gt;
+	                    &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;I'll be changed&lt;/a&gt;
+	                &lt;/div&gt;
+	            	--&gt;
+	            &lt;/div&gt;
+	        &lt;/div&gt;
+ 
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Liquid series rises from an abstract idea of how can an object with a great physical strain can momentarily liquefy and blur its spacial and physical characteristics through a visual game. In this line of research, the geometry of the object takes the form of the truncated polyhedron. This truncated polyhedron enigmatically appears in an engraving of 1514 called Melancholia I, made by the famous German Renaissance artist, Albrecht Dürer.&lt;/p&gt;
+
+&lt;p&gt;For a long period, theorists, mathematicians and art historians are trying to interpret the symbolism of the composition, where the objects related to geometry or mathematics, such as a sphere or this polyhedral shape that seems so interesting, are carefully introduced with diverse objects and main characters.&lt;/p&gt;
+
+&lt;p&gt;In Melancholia I, the object consists of the physical sculptural recreation of the truncated polyhedron, where the different states of matter are narratively revealed to the viewer’s senses.This narration is achieved by the object rotating at its axis and augmented by projection mapping. The second part of the series, Melancholia II, the geometry itself breaks into two pieces, deforms and generates new shapes, distorts and comes back to its reconstruction.&lt;/p&gt;
+
+&lt;div style=&quot;border-top: 3px solid; border-color: black; margin: 50px 0px 0px 0px; padding-top: 50px; padding-bottom: 40px; font-size: 17px; line-height: 27px;&quot;&gt;
+
+&lt;b&gt;Roman Torre is an artist&lt;/b&gt; whose creative work in not confined to a specific format, although he usually uses digital tools intensively. Torre tries to mix technical curiosity and creativity with simple day to day experiences. He has experimented with diverse ways of implementing technology to interact phisically or virtually with light, sound, and visuals in real time. Torre has worked directing, producing and collaborating on audiovisual and interactive productions of all shapes and sizes, from small immersive installations to large scenic productions.
+&lt;/div&gt;
+
+&lt;h4 id=&quot;for-more-info-visit-httpwwwromantorrenethttpwwwromantorrenet&quot;&gt;For more info visit: &lt;a href=&quot;http://www.romantorre.net/&quot;&gt;http://www.romantorre.net/&lt;/a&gt;&lt;/h4&gt;
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000//roman-torre</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//roman-torre</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ricardo O'Nascimento</title>
+        <description>&lt;!-- Video Frame --&gt;
+&lt;div&gt;
+
+		
+	
+
+	
+&lt;/div&gt;
+
+&lt;!-- Photo Gallery --&gt;
+&lt;div style=&quot;padding-top:0px; padding-bottom: 40px;&quot;&gt;
+
+	
+		&lt;h3 class=&quot;section-sub-subheading&quot;&gt;  &lt;/h3&gt;
+		&lt;div class=&quot;row text-center&quot; style=&quot;margin-right: 0px; margin-left: 0px; padding-bottom: 30px;&quot;&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/onascimento/residencies-barcelona-nascimento.jpg&quot; data-href=&quot;/img/artists/onascimento/residencies-barcelona-nascimento.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/onascimento/residencies-barcelona-nascimento-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-3.jpg&quot; data-href=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-3.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/onascimento/residencies-barcelona-nascimento-3-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-2.jpg&quot; data-href=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-2.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/onascimento/residencies-barcelona-nascimento-2-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-4.jpg&quot; data-href=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-4.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/onascimento/residencies-barcelona-nascimento-4-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-5.jpg&quot; data-href=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-5.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/onascimento/residencies-barcelona-nascimento-5-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-6.jpg&quot; data-href=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-6.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/onascimento/residencies-barcelona-nascimento-6-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-7.jpg&quot; data-href=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-7.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/onascimento/residencies-barcelona-nascimento-7-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-9.jpg&quot; data-href=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-9.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/onascimento/residencies-barcelona-nascimento-9-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-8.jpg&quot; data-href=&quot;/img/artists/onascimento/residencies-barcelona-nascimento-8.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/onascimento/residencies-barcelona-nascimento-8-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+		&lt;/div&gt;
+		
+	
+
+	
+
+
+	
+
+	
+
+	
+
+
+&lt;/div&gt;
+
+&lt;!--Modals --&gt;
+&lt;div class=&quot;modal fade&quot; id=&quot;image-gallery&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;myModalLabel&quot; aria-hidden=&quot;true&quot;&gt;
+	&lt;div class=&quot;modal-dialog&quot;&gt;
+
+	        	&lt;div class=&quot;modal-content&quot;&gt;
+	            &lt;div class=&quot;modal-header&quot;&gt; 
+	                &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;×&lt;/span&gt;&lt;span class=&quot;sr-only&quot;&gt;Close&lt;/span&gt;&lt;/button&gt;
+	               &lt;!-- &lt;h4 class=&quot;modal-title&quot; id=&quot;image-gallery-title&quot;&gt;&lt;/h4&gt;--&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-body&quot;&gt;
+	                &lt;img id=&quot;image-gallery-image&quot; class=&quot;img-responsive&quot; src=&quot;&quot; /&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-footer&quot;&gt;
+
+	                &lt;div class=&quot;col-md-2 pull-left&quot;&gt;
+	                    &lt;button type=&quot;button&quot; class=&quot;btn btn-default&quot; id=&quot;show-previous-image&quot;&gt;&lt;i class=&quot;fa fa-arrow-left&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;div class=&quot;col-md-2 pull-right&quot; style=&quot;padding-right: 0px;&quot;&gt;
+	                    &lt;button type=&quot;button&quot; id=&quot;show-next-image&quot; class=&quot;btn btn-default&quot;&gt;&lt;i class=&quot;fa fa-arrow-right&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;!--
+	                 &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-caption&quot;&gt;
+	                    This text will be overwritten by jQuery
+	                &lt;/div&gt;--&gt;
+	                &lt;!--
+	                &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-link&quot;&gt;
+	                    &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;I'll be changed&lt;/a&gt;
+	                &lt;/div&gt;
+	            	--&gt;
+	            &lt;/div&gt;
+	        &lt;/div&gt;
+ 
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;“Batuque” is a performance inspired by the Afro-Brazilian faith Candomblé. In this belief the entities are represented by people wearing specific clothing as part of a ritual that transposes them into another dimension.&lt;/p&gt;
+
+&lt;p&gt;The name “Batuque” is used to refer to the religion, especially before the 19th century and is also the Brazilian word associated with percussion instruments and with african roots. In this performance the wearer becomes a sort of creature or entity that has an extra sense. Its skin senses the surround sound and reacts to it accordingly, with movements and vibrations.&lt;/p&gt;
+
+&lt;p&gt;The garment uses sensor technology and digital prototyping techniques, such as 3d printing and laser engraving, to create a magical and enjoyable experience.&lt;/p&gt;
+
+&lt;div style=&quot;border-top: 3px solid; border-color: black; margin: 50px 0px 0px 0px; padding-top: 50px; padding-bottom: 40px; font-size: 17px; line-height: 27px;&quot;&gt;
+
+&lt;b&gt;Ricardo O'Nascimento&lt;/b&gt; is an artist and researcher on the field of new media and interactive art. He investigates body-environment relations focused on interface development for worn devices, interactive installations and hybrid environments. He is the founder of POPKALAB - a design/research studio focused on innovation on the field of wearable technology. He holds degree from PUC - SP , SENAC - SP and the University of Arts and Industrial Design Linz at the Interface Culture Department. Currently he works in his studio and teaches at some places.
+&lt;/div&gt;
+
+&lt;h4 id=&quot;for-more-info-visit-httpwwwonascimentocomhttpwwwonascimentocom&quot;&gt;For more info visit: &lt;a href=&quot;http://www.onascimento.com/&quot;&gt;http://www.onascimento.com/&lt;/a&gt;&lt;/h4&gt;
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000//ricardo-o-nascimento</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//ricardo-o-nascimento</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Made@Eu Residencies</title>
+        <description>&lt;p&gt;One of the main goals of the Made@Eu Project is the creation of residency programmesfor creative professionals to develop projects that explore the integration of 3-D digital fabrication systems into their processes of design and production, to realize a new outcome. Residencies take place in Barcelona, Paris and Plymouth, facilitating cross-European mobility of creators and generating international opportunities for emerging talent.&lt;/p&gt;
+
+&lt;!-- Pages Mosaic --&gt;
+
+&lt;div class=&quot;row text-center&quot; style=&quot;margin-right:0px; margin-left: 0px; margin-top: 10px;&quot;&gt;
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/ricardo-o-nascimento&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/artists/onascimento/residencies-barcelona-nascimento-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Ricardo O'Nascimento
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/annemie-maes&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/artists/maes/residencies-barcelona-maes-8-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Annemie Maes
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/adriana-ionascu&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/artists/ionascu/residencies-plymouth-ionascu-12-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Adriana Ionascu
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/jack-west&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/artists/west/residencies-plymouth-west-5-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Jack West
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/ludovic-mallegol&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/artists/mallegol/residencies-barcelona-mallegol-5-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Ludovic Mallegol
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/cristian-rizzuti&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/artists/rizzuti/residencies-barcelona-rizzuti-6-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Cristian Rizzuti
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/laura-martinez&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/artists/martinez/residencies-plymouth-martinez-7-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Laura Martinez
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/alfie-smith&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/artists/smith/residencies-plymouth-smith-10-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Alfie Smith
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/matthew-bush&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/artists/bush/residencies-plymouth-bush-7-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Matthew Bush
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/phil-cuttance&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/artists/cuttance/residencies-plymouth-cuttance-1-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Phil Cuttance
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/mark-von-rosenstiel&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/artists/rosenstiel/residencies-plymouth-rosenstiel-4-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Mark von Rosenstiel
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+            &lt;a class=&quot;subtitle&quot; href=&quot;/workshops&quot;&gt; 
+            &lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(../img/mosaic/workshops.png); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+                &lt;div class=&quot;mosaic-subtitle hvr-grow&quot;&gt;
+                    Also check out the workshops &amp;#62;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;/a&gt; 
+    
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The participants selected for the residencies fall within the target group of the Made@EU project, namely designers, craftspeople and artists. They are tasked with the development of a project which represents their background, previous body of work and area of expertise whilst at the same time ingrates the digital fabrication techniques learned at the workshop session offered to them.&lt;/p&gt;
+
+&lt;p&gt;Thus, participants are granted access to the digital fabrication equipment available not only at the partners institution where they are located but if required, also to specific equipment available at the facilities of other partners. They also receive continuous guidance and support from the local digital fabrication team as well as experts from the other institutions.&lt;/p&gt;
+
+&lt;p&gt;Residencies take place simultaneously in all partner cities, with a duration between 4 and 8 weeks depending on the complexity and ambition of each project.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000//residencies</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//residencies</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Phil Cuttance</title>
+        <description>&lt;!-- Video Frame --&gt;
+&lt;div&gt;
+
+	
+		&lt;div class=&quot;row text-center&quot; style=&quot;margin-right: 0px; margin-left: 0px; padding-bottom: 30px;&quot;&gt;
+       		&lt;div class=&quot;videoWrapper&quot;&gt;
+				&lt;iframe src=&quot;https://www.youtube.com/embed/pf-9dpK1Wtw?vq=hd1080&amp;amp;rel=0&amp;amp;theme=light&amp;amp;color=white&amp;amp;showinfo=0&amp;amp;modestbranding=1&amp;amp;controls=2&amp;amp;autohide=1&quot; width=&quot;720&quot; height=&quot;405&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		
+	
+
+	
+&lt;/div&gt;
+
+&lt;!-- Photo Gallery --&gt;
+&lt;div style=&quot;padding-top:0px; padding-bottom: 40px;&quot;&gt;
+
+	
+		&lt;h3 class=&quot;section-sub-subheading&quot;&gt;  &lt;/h3&gt;
+		&lt;div class=&quot;row text-center&quot; style=&quot;margin-right: 0px; margin-left: 0px; padding-bottom: 30px;&quot;&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-10.jpg&quot; data-href=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-10.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/cuttance/residencies-plymouth-cuttance-10-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-9.jpg&quot; data-href=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-9.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/cuttance/residencies-plymouth-cuttance-9-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-8.jpg&quot; data-href=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-8.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/cuttance/residencies-plymouth-cuttance-8-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-7.jpg&quot; data-href=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-7.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/cuttance/residencies-plymouth-cuttance-7-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-6.jpg&quot; data-href=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-6.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/cuttance/residencies-plymouth-cuttance-6-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-5.jpg&quot; data-href=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-5.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/cuttance/residencies-plymouth-cuttance-5-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-4.jpg&quot; data-href=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-4.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/cuttance/residencies-plymouth-cuttance-4-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-2.jpg&quot; data-href=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-2.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/cuttance/residencies-plymouth-cuttance-2-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+				&lt;a class=&quot;thumb&quot; href=&quot;#&quot; data-image-id=&quot;&quot; data-toggle=&quot;modal&quot; data-title=&quot;Image One&quot; data-caption=&quot;Dummy text&quot; data-image=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-1.jpg&quot; data-href=&quot;/img/artists/cuttance/residencies-plymouth-cuttance-1.jpg&quot; data-target=&quot;#image-gallery&quot;&gt;
+					&lt;div class=&quot;col-md-4&quot; style=&quot;background-image: url(/img/artists/cuttance/residencies-plymouth-cuttance-1-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;&quot;&gt;
+					&lt;/div&gt;
+           		&lt;/a&gt;
+			
+		&lt;/div&gt;
+		
+	
+
+	
+
+
+	
+
+	
+
+	
+
+
+&lt;/div&gt;
+
+&lt;!--Modals --&gt;
+&lt;div class=&quot;modal fade&quot; id=&quot;image-gallery&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;myModalLabel&quot; aria-hidden=&quot;true&quot;&gt;
+	&lt;div class=&quot;modal-dialog&quot;&gt;
+
+	        	&lt;div class=&quot;modal-content&quot;&gt;
+	            &lt;div class=&quot;modal-header&quot;&gt; 
+	                &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;×&lt;/span&gt;&lt;span class=&quot;sr-only&quot;&gt;Close&lt;/span&gt;&lt;/button&gt;
+	               &lt;!-- &lt;h4 class=&quot;modal-title&quot; id=&quot;image-gallery-title&quot;&gt;&lt;/h4&gt;--&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-body&quot;&gt;
+	                &lt;img id=&quot;image-gallery-image&quot; class=&quot;img-responsive&quot; src=&quot;&quot; /&gt;
+	            &lt;/div&gt;
+	            &lt;div class=&quot;modal-footer&quot;&gt;
+
+	                &lt;div class=&quot;col-md-2 pull-left&quot;&gt;
+	                    &lt;button type=&quot;button&quot; class=&quot;btn btn-default&quot; id=&quot;show-previous-image&quot;&gt;&lt;i class=&quot;fa fa-arrow-left&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;div class=&quot;col-md-2 pull-right&quot; style=&quot;padding-right: 0px;&quot;&gt;
+	                    &lt;button type=&quot;button&quot; id=&quot;show-next-image&quot; class=&quot;btn btn-default&quot;&gt;&lt;i class=&quot;fa fa-arrow-right&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+	                &lt;/div&gt;
+	                &lt;!--
+	                 &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-caption&quot;&gt;
+	                    This text will be overwritten by jQuery
+	                &lt;/div&gt;--&gt;
+	                &lt;!--
+	                &lt;div class=&quot;col-md-12&quot; id=&quot;image-gallery-link&quot;&gt;
+	                    &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;I'll be changed&lt;/a&gt;
+	                &lt;/div&gt;
+	            	--&gt;
+	            &lt;/div&gt;
+	        &lt;/div&gt;
+ 
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Phil Cuttance’s aim is to produce a series of intricate cast objects based on his &lt;em&gt;faceture casting&lt;/em&gt; process but, by utilising Plymouth College of Arts Digital capabilities, take the process into a new direction in terms of the form and scale of the pieces.&lt;/p&gt;
+
+&lt;p&gt;By cutting larger, more intricate moulds using Plymouth College of Art’s digital equipment, he uses these digitally made moulds to cast sculptural pieces using water-based resin; each piece is unique in its form.&lt;/p&gt;
+
+&lt;p&gt;Cuttance thinks that digital technologies should have a light footprint within craft, and not be used to replace skill, but to complement the maker; To provide the maker with opportunities which aren’t possible by hand.&lt;/p&gt;
+
+&lt;p&gt;There are many people in the design/make field using technology, and he hopes that this project is another example of using digital technolgy in this limited way.&lt;/p&gt;
+
+&lt;p&gt;He claims he is wary of digital technology, but has been excited and impressed with what forms he can now make using the processes he employed. Cuttance feels he can use it in future projects to push the aesthetic of his work further while maintaining the ‘hand-made’ integrity of his work.&lt;/p&gt;
+
+&lt;div style=&quot;border-top: 3px solid; border-color: black; margin: 50px 0px 0px 0px; padding-top: 50px; padding-bottom: 40px; font-size: 17px; line-height: 27px;&quot;&gt;
+
+&lt;b&gt;Phil Cuttance is a designer/maker&lt;/b&gt; based in a shared studio in London. He moved to London six years ago from New Zealand where he had worked as a furniture designer for years, and set up his studio full time on arrival. He makes by hand most of the objects he produces in his studio. Cuttance occasionally collaborates with other makers/design brands and has worked with many materials and processes, but is currently spending the majority of his time casting objects using his &lt;i&gt;faceture process&lt;/i&gt;, his most successful project to date.
+&lt;/div&gt;
+
+&lt;h4 id=&quot;for-more-info-visit-wwwphilcuttancecomwwwphilcuttancecom&quot;&gt;For more info visit: &lt;a href=&quot;www.philcuttance.com&quot;&gt;www.philcuttance.com&lt;/a&gt;&lt;/h4&gt;
+
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000//phil-cuttance</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//phil-cuttance</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
