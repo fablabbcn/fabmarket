@@ -269,7 +269,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 14px 0;
         border: 0;
-        background-color: #ffffff;
+        background-color: transparent;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -373,7 +373,7 @@ fieldset[disabled] .btn-xl.active {
     font-size: 14px;
     font-weight: 800;
     letter-spacing: 1px;
-    color: #000000;
+    color: #ffffff;
 }
 
 @media(min-width:992px) {
@@ -433,7 +433,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/slideshow/0.jpg);
+    background-image: url(../img/carousel/0.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;

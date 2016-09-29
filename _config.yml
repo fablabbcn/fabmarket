@@ -17,15 +17,15 @@ fonts:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: flickr
-    url: https://www.flickr.com/photos/madeateu/
+    url: 
   - title: envelope
     url: mailto:info@fablabbcn.org
   - title: twitter
-    url: https://twitter.com/madeateu
+    url: 
   - title: facebook
-    url: https://www.facebook.com/madeat.eu/
+    url: 
   - title: youtube
-    url: https://www.youtube.com/channel/UCCs0fOFV2rmjRX18rd4U0jw    
+    url:     
 
 
 # Team names, titles and social links
