@@ -8,8 +8,9 @@ url: http://127.0.0.1:4000/
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: f7ef01
+  primary: 080808
   secondary: 080808
+  whites: FAFAFA
 
 fonts: 
   primary: Karla  
