@@ -23,7 +23,7 @@
 body {
     overflow-x: hidden;
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: #FAFAFA;
+    background: #{{ site.color.whites }};
     color: #{{ site.color.secondary }};;
 
 
@@ -262,8 +262,8 @@ fieldset[disabled] .btn-xl.active {
 /*---NAVIGATION BAR--*/ 
 
 .navbar-default {
-    border-color: #FAFAFA;
-    background-color: #FAFAFA;
+    border-color: #{{ site.color.whites }};
+    background-color: #{{ site.color.whites }};
     /*opacity: 0.96; */
 }
 
@@ -445,7 +445,8 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/carousel/0.jpg);
+    /*background-image: url(../img/carousel/0.jpg);*/
+    background-color: ##FAFAFA;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
