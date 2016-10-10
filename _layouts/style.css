@@ -269,16 +269,11 @@ fieldset[disabled] .btn-xl.active {
 
 @media(min-width:767px) {
     .navbar-default {
-        padding: 14px 0;
+        padding: 24px 0;
         border: 0;
     }
 }    
 
-@media(min-width:992px) {
-    .navbar-default {
-        padding: 14px 0;
-    }
-}
 
 .nav-container {
     margin: 0px 0px;
@@ -445,7 +440,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    /*background-image: url(../img/carousel/0.jpg);*/
+    background-image: url(../img/carousel/0.png)
     background-color: ##FAFAFA;
     background-position: center center;
     background-repeat: none;
