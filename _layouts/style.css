@@ -127,7 +127,7 @@ filled with th primary color defined in config*/
     text-transform: uppercase;
     text-align: center;
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 400;
     font-size: 14px;
     padding: 14px 30px; 
     margin: 0px 0px;
@@ -141,7 +141,7 @@ filled with th primary color defined in config*/
 /*Alternative button, a bolder take to highlight special buttons
 black border and white background*/
 .btn-primary.white { 
-    background-color: #ffffff;
+    background-color: #{{ site.color.whites }};;
     border: 2px solid;
     border-color: #{{ site.color.secondary }};
     color: #{{ site.color.secondary }};
@@ -168,7 +168,7 @@ black border and white background*/
 
 .right-align {
     position: absolute;
-    right: 5% ;
+    right: 0;
 }
 
 .btn-primary:hover,
@@ -546,6 +546,12 @@ section#content-mosaic {
     padding: 100px 0px 0px 0px;
 }
 
+
+.mosaic {
+  margin: 10px;
+}
+
+
 .mosaic-title{
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
@@ -554,6 +560,7 @@ section#content-mosaic {
     line-height:300px; 
     text-align: center;     
     vertical-align: middle;
+    color: transparent;
 }
 
 /*Grow link when hover*/
@@ -577,28 +584,6 @@ section#content-mosaic {
   transform: scale(1.1);
 }
 
-.mosaic-title-flickr{
-    font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    font-size: 16px;
-    width:100%;  
-    text-align: center;     
-    vertical-align: middle;
-    padding: 140px 50px 20px 20px;
-    text-align: right;
-}
-
-.mosaic-title-twitter{
-    font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    font-size: 15px;
-    width:100%;  
-    text-align: center;     
-    vertical-align: middle;
-    padding: 35px 50px 20px 40px;
-    text-align: right;
-}
-
 .row a{
     text-decoration: none;
     color: #000000;
@@ -611,8 +596,8 @@ section#content-mosaic {
 
 .mosaic-subtitle{
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    font-size: 14px;
+    font-weight: 200;
+    font-size: 53px;
     width:100%;  
     line-height:300px; 
     text-align: center;     
@@ -627,7 +612,7 @@ section#content-mosaic {
 }
 
 .subtitle :hover {
-    color: #ffffff;
+    color: #{{ site.color.whites }};
 }
 
 
