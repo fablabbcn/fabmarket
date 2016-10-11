@@ -23,15 +23,15 @@
 body {
     overflow-x: hidden;
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #{{ site.color.secondary }};;
-
+    background: #{{ site.color.whites }};
+    color: #{{ site.color.secondary }};
 }
 
-.text {
-   position: relative; 
-   padding-right: 5%; 
-   padding-left: 5%;
+.container-fluid {
+    padding-right: 45px;
+    padding-left: 45px;
 }
+
   
 .text-muted {
     color: #777;
@@ -42,7 +42,7 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 18px;
     line-height: 1.7;
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.color.secondary }};
@@ -52,12 +52,16 @@ p {
 }
 
 p.large {
-    font-size: 25px;
+    font-size: 35px;
+    line-height: 1.3;
 }
 
-.text p {
-    font-size: 25px;
+p.quote {
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 1.5;
 }
+
 
 a,
 a:hover,
@@ -87,8 +91,8 @@ h5,
 h6 {
     text-transform: none;
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    color: #{{ site.color.secondary }};;
+    font-weight: 900;
+    color: #{{ site.color.primary }};;
 }
 
 .oblique {
@@ -123,7 +127,7 @@ filled with th primary color defined in config*/
     text-transform: uppercase;
     text-align: center;
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 400;
     font-size: 14px;
     padding: 14px 30px; 
     margin: 0px 0px;
@@ -137,7 +141,7 @@ filled with th primary color defined in config*/
 /*Alternative button, a bolder take to highlight special buttons
 black border and white background*/
 .btn-primary.white { 
-    background-color: #ffffff;
+    background-color: #{{ site.color.whites }};;
     border: 2px solid;
     border-color: #{{ site.color.secondary }};
     color: #{{ site.color.secondary }};
@@ -164,7 +168,7 @@ black border and white background*/
 
 .right-align {
     position: absolute;
-    right: 5% ;
+    right: 0;
 }
 
 .btn-primary:hover,
@@ -260,27 +264,18 @@ fieldset[disabled] .btn-xl.active {
 /*---NAVIGATION BAR--*/ 
 
 .navbar-default {
-    border-color: transparent;
-    background-color: transparent;
-    opacity: 0.96;
+    border-color: #{{ site.color.whites }};
+    background-color: #{{ site.color.whites }};
+    /*opacity: 0.96; */
 }
 
 @media(min-width:767px) {
     .navbar-default {
-        padding: 14px 0;
+        padding: 24px 0;
         border: 0;
-        background-color: transparent;
-        -webkit-transition: padding .3s;
-        -moz-transition: padding .3s;
-        transition: padding .3s;
     }
 }    
 
-@media(min-width:992px) {
-    .navbar-default {
-        padding: 14px 0;
-    }
-}
 
 .nav-container {
     margin: 0px 0px;
@@ -367,18 +362,20 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.color.primary }};
 }
 
+
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 14px;
-    font-weight: 800;
+    font-size: 13px;
+    font-weight: 600;
     letter-spacing: 1px;
-    color: #ffffff;
+    color: #383838;
+    padding: 10px 23px; 
 }
 
-@media(min-width:992px) {
+@media(min-width: 1100px) {
     .navbar-default .nav li a {
-        font-size: 14px;
+       /* padding: 10px 20px; */
     }
 }
 
@@ -418,12 +415,24 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #000000;
+        background-color: #FAFAFA;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+}
+
+
+/* cnetered test */
+ .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+ .navbar-collapse {
+  text-align: center;
 }
 
 
@@ -433,7 +442,8 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/carousel/0.jpg);
+    background-image: url(../img/carousel/0.png)
+    background-color: ##FAFAFA;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -478,7 +488,6 @@ section {
 h1.section-heading {
     margin-bottom: 0px;
     font-size: 40px;
-    text-align: left;
     text-transform: none;
     line-height: 0.95;
 }
@@ -537,6 +546,12 @@ section#content-mosaic {
     padding: 100px 0px 0px 0px;
 }
 
+
+.mosaic {
+  margin: 10px;
+}
+
+
 .mosaic-title{
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
@@ -545,6 +560,7 @@ section#content-mosaic {
     line-height:300px; 
     text-align: center;     
     vertical-align: middle;
+    color: transparent;
 }
 
 /*Grow link when hover*/
@@ -568,28 +584,6 @@ section#content-mosaic {
   transform: scale(1.1);
 }
 
-.mosaic-title-flickr{
-    font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    font-size: 16px;
-    width:100%;  
-    text-align: center;     
-    vertical-align: middle;
-    padding: 140px 50px 20px 20px;
-    text-align: right;
-}
-
-.mosaic-title-twitter{
-    font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    font-size: 15px;
-    width:100%;  
-    text-align: center;     
-    vertical-align: middle;
-    padding: 35px 50px 20px 40px;
-    text-align: right;
-}
-
 .row a{
     text-decoration: none;
     color: #000000;
@@ -602,8 +596,8 @@ section#content-mosaic {
 
 .mosaic-subtitle{
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    font-size: 14px;
+    font-weight: 200;
+    font-size: 53px;
     width:100%;  
     line-height:300px; 
     text-align: center;     
@@ -618,7 +612,7 @@ section#content-mosaic {
 }
 
 .subtitle :hover {
-    color: #ffffff;
+    color: #{{ site.color.whites }};
 }
 
 
@@ -1368,6 +1362,12 @@ body {
 }
 
 
+/*Carousel*/
+
+.carousel-caption {
+    font-family: ;
+
+}
 
 
 
