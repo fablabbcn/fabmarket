@@ -1,0 +1,14 @@
+---
+title: RACK
+designer: Ingi Gudjonsson
+layout: posts
+date: 2014-07-18
+headphoto: /img/products/rack/head 
+permalink: /rack
+images:  
+  - image_path: 
+  - image_path: 
+  - image_path:  
+---
+
+Steel rods and a wooden bar take the form of a vertical bike rack. 7 bikes or boards are stored in a 2.4 meter wall space. The design is simple and can easily be changed for your needs. 
