@@ -17,16 +17,12 @@ fonts:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: flickr
-    url: 
   - title: envelope
     url: mailto:info@fablabbcn.org
   - title: twitter
-    url: 
+    url: https://twitter.com/fablabbcn
   - title: facebook
-    url: 
-  - title: youtube
-    url:     
+    url: https://www.facebook.com/FabLab.BCN/  
 
 
 # Team names, titles and social links
