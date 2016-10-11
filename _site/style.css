@@ -70,8 +70,8 @@ footer {
 
 body {
     overflow-x: hidden;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #080808;;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #231f20;;
 
 }
 
@@ -86,14 +86,14 @@ body {
 }
 
 .text-primary {
-    color: #f7ef01;
+    color: #231f20;
 }
 
 p {
     font-size: 14px;
     line-height: 1.7;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #080808;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #231f20;
     margin-top: 0em;
     margin-bottom: 1.3em;
 
@@ -116,7 +116,7 @@ a.active {
 }
 
 a {
-    color: #080808;
+    color: #231f20;
     cursor: pointer;
 }
 
@@ -134,9 +134,9 @@ h4,
 h5,
 h6 {
     text-transform: none;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    color: #080808;;
+    color: #231f20;;
 }
 
 .oblique {
@@ -170,16 +170,16 @@ filled with th primary color defined in config*/
 .btn-primary { 
     text-transform: uppercase;
     text-align: center;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     font-size: 14px;
     padding: 14px 30px; 
     margin: 0px 0px;
     line-height:18px;
     border-radius: 0;
-    background-color: #f7ef01;
-    border-color: #f7ef01;
-    color: #080808;
+    background-color: #231f20;
+    border-color: #231f20;
+    color: #231f20;
 }
 
 /*Alternative button, a bolder take to highlight special buttons
@@ -187,16 +187,16 @@ black border and white background*/
 .btn-primary.white { 
     background-color: #ffffff;
     border: 2px solid;
-    border-color: #080808;
-    color: #080808;
+    border-color: #231f20;
+    color: #231f20;
 
 }
 
 /*--> white option inverted*/
 .btn-primary.inverted { 
-    background-color: #080808;
-    color: #080808;
-    border-color: #080808;
+    background-color: #231f20;
+    color: #231f20;
+    border-color: #231f20;
     color: #ffffff;;
 }
 
@@ -220,8 +220,8 @@ black border and white background*/
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    background-color:  #080808;
-    border-color: #080808;
+    background-color:  #231f20;
+    border-color: #231f20;
     color: #ffffff;
 }
 
@@ -256,12 +256,12 @@ fieldset[disabled] .btn-primary.active {
     border-radius: 0;
     text-transform: uppercase;
     text-align: right;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 13px;
     line-height: 18px;
     font-weight: 700;
-    color: #080808;
-    background-color: #f7ef01;
+    color: #231f20;
+    background-color: #231f20;
 }
 
 
@@ -270,8 +270,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    background-color: #080808;
-    border-color: #080808;
+    background-color: #231f20;
+    border-color: #231f20;
     color: #ffffff;
 }
 
@@ -296,8 +296,8 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #f7ef01;
-    background-color: #f7ef01;
+    border-color: #231f20;
+    background-color: #231f20;
 }
 
 
@@ -347,7 +347,7 @@ fieldset[disabled] .btn-xl.active {
    z-index: 2;
    top: 0px;
    left: 8%;
-   background-color: #080808;
+   background-color: #231f20;
    width:120px;
 }
 
@@ -369,8 +369,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     text-transform: uppercase ;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,cursive;
-    color: #080808;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,cursive;
+    color: #231f20;
     font-size: 1.5em ;
     font-weight: bold;
 
@@ -401,8 +401,8 @@ fieldset[disabled] .btn-xl.active {
 
 
 .navbar-default .navbar-toggle {
-    border-color: #080808;
-    background-color: #080808;
+    border-color: #231f20;
+    background-color: #231f20;
     border-radius: 0px;
 }
 
@@ -412,12 +412,12 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #f7ef01;
+    background-color: #231f20;
 }
 
 .navbar-default .nav li a {
     text-transform: uppercase;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
     font-weight: 800;
     letter-spacing: 1px;
@@ -439,14 +439,14 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: ##080808;
+    color: ##231f20;
     background-color: transparent;
     text-decoration: underline;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #080808;
+    color: #231f20;
     background-color: transparent;
     text-decoration: underline;
 }
@@ -500,7 +500,7 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     margin-bottom: 10px;
     text-transform: uppercase;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 800;
     font-size: 50px;
     line-height: 22px;
@@ -510,7 +510,7 @@ header .intro-text .intro-lead-in {
 header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 20px;
     font-weight: 600;
     line-height: 20px;
@@ -586,7 +586,7 @@ section#content-mosaic {
 }
 
 .mosaic-title{
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     font-size: 16px;
     width:100%;  
@@ -617,7 +617,7 @@ section#content-mosaic {
 }
 
 .mosaic-title-flickr{
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     font-size: 16px;
     width:100%;  
@@ -628,7 +628,7 @@ section#content-mosaic {
 }
 
 .mosaic-title-twitter{
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     font-size: 15px;
     width:100%;  
@@ -649,7 +649,7 @@ section#content-mosaic {
 
 
 .mosaic-subtitle{
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     font-size: 14px;
     width:100%;  
@@ -833,7 +833,7 @@ section#what-full {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #f7ef01;
+    background-color: #231f20;
 }
 
 .timeline>li .timeline-image h4 {
@@ -1025,34 +1025,34 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-    border-color: #f7ef01;
+    border-color: #231f20;
     box-shadow: none;
 }
 
 section#contact::-webkit-input-placeholder {
     text-transform: uppercase;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact:-moz-placeholder {
     text-transform: uppercase;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact::-moz-placeholder {
     text-transform: uppercase;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact:-ms-input-placeholder {
     text-transform: uppercase;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
@@ -1083,7 +1083,7 @@ h4.footer-titles {
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
 }
 
@@ -1091,7 +1091,7 @@ footer ul.quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;
     text-transform: none;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
 }
 
@@ -1117,7 +1117,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #f7ef01;
+    background-color: #231f20;
 }
 
 .btn:focus,
@@ -1225,12 +1225,12 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    /*background: #f7ef01;*/
+    /*background: #231f20;*/
 }
 
 ::selection {
     text-shadow: none;
-    background: #f7ef01;
+    background: #231f20;
 }
 
 img::selection {
@@ -1242,7 +1242,7 @@ img::-moz-selection {
 }
 
 body {
-    webkit-tap-highlight-color: #f7ef01;
+    webkit-tap-highlight-color: #231f20;
 }
 
 
