@@ -3,7 +3,7 @@ title: RACK
 designer: Ingi Gudjonsson
 layout: posts
 date: 2014-07-18
-headphoto: /img/products/rack/head 
+headphoto: /img/products/rack/rack-head
 permalink: /rack
 images:  
   - image_path: 
