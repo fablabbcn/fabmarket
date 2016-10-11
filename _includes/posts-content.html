@@ -10,14 +10,42 @@
 		</div>
 
 		<div class = "row" style= "padding-top: 40px;"> 
-		 	<div class="col-md-4" style="padding-right:100px;">
+
+		 	<div class="col-md-4" style="padding-right:50px;">
 			   	<p class="large" style="margin-bottom: 0em;">{{content}}</p>
 			    <p style="margin-bottom: 0em;"><b>Designer: </b> {{ page.designer}}</p>
 			    <div style="height: 30px; border-bottom: 1px solid #{{ site.color.primary}};"> </div>
+
+			    <div style="padding-top: 20px;">
+			   		<div style="width: 50%; float: left;"> <p style="padding: 0px; margin: 0px;">Ready for use</p></div> 
+			   		<div style="width: 50%; float: left"><p style="padding: 0px; margin: 0px;">Paypal</p></div>
+
+			   		<div style="width: 50%; float: left;"><p><b>€{{page.rfuprice}}</b></p></div>
+			   		<div style="width: 50%; float: left;"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
+			    </div>
+
+			    <div style="padding-top: 20px;">
+			   		<div style="width: 50%; float: left;"> <p style="padding: 0px; margin: 0px;">Ready for assembly</p></div> 
+			   		<div style="width: 50%; float: left"><p style="padding: 0px; margin: 0px;">Paypal</p></div>
+
+			   		<div style="width: 50%; float: left;"><p><b>€{{page.rfaprice}}</b></p></div>
+			   		<div style="width: 50%; float: left;"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
+			    </div>
+
+			    <div style="padding-top: 20px;">
+			   		<div style="width: 50%; float: left;"> <p style="padding: 0px; margin: 0px;">Ready for fabrication</p></div> 
+			   		<div style="width: 50%; float: left"><p style="padding: 0px; margin: 0px;">Paypal</p></div>
+
+			   		<div style="width: 50%; float: left;"><p><b>€{{page.rffprice}}</b></p></div>
+			   		<div style="width: 50%; float: left;"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
+			    </div>
+
 			</div>	
+
 			<div class="col-md-8">
 			   {% include photo-gallery.html %}
 			</div>	
+
 		</div>
 
 	</div>	
