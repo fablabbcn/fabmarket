@@ -424,14 +424,14 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .header-logo {
-        height:40px;
-        margin-top: 40px;
+        height:0px;
+        margin-top: 0px;
     }
 
-@media(min-width:768px) {
+@media(min-width:992px) {
 
     .header-logo {
-        margin-top: 0px;
+        height:40px;
     }
 }
 
