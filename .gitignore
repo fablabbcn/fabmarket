@@ -1,0 +1,10 @@
+.DS_Store
+
+*.xml
+
+
+*.xml
+
+_site/
+.sass-cache/
+.jekyll-metadata

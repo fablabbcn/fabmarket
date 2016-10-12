@@ -3,7 +3,7 @@
 https://blackrockdigital.github.io/startbootstrap-full-slider/*/
 
 $('.carousel').carousel({
-    interval: 3000 //changes the speed
+    interval: 2500 //changes the speed
 })
 
 

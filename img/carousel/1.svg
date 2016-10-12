@@ -3,10 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 -48 800 531" enable-background="new 0 -48 800 531" xml:space="preserve">
-<g id="Layer_10">
-	<rect x="1.6" y="-48" fill="#F2E5AB" width="798.4" height="531"/>
-</g>
 <g id="Layer_4">
+	<g id="Layer_10_2_">
+		<rect y="-48" fill="#F2E5AB" width="798.4" height="531"/>
+	</g>
 	<path fill="#616262" d="M686.2,304.6c0,3.3-0.6,5.9-1.3,5.9c-0.7,0-1.3-2.6-1.3-5.9c0-3.3,0.6-5.9,1.3-5.9
 		C685.6,298.7,686.2,301.3,686.2,304.6"/>
 	<path fill="#616262" d="M682.2,302.9c0,2.4-0.4,4.3-1,4.3c-0.5,0-1-1.9-1-4.3c0-2.4,0.4-4.3,1-4.3
@@ -494,5 +494,7 @@
 	<path fill="#112029" d="M600.5,266.9c0,0,1.2,0.7,1.3,0.7c0.1,0-1.7,3.7-1.7,4.9l-1.7-0.9C598.4,271.6,600.3,268,600.5,266.9z"/>
 	<text transform="matrix(1 0 0 1 133.459 146.1692)"><tspan x="0" y="0" fill="#231F20" font-family="'Lato-Light'" font-size="20.0443">Let’s create</tspan><tspan x="98.5" y="0" fill="#231F20" font-family="'Graphik-Light'" font-size="20.0443"> </tspan><tspan x="103.5" y="0" fill="#231F20" font-family="'Lato-Black'" font-size="20.0443">Customizable </tspan><tspan x="0" y="24.1" fill="#231F20" font-family="'Lato-Black'" font-size="20.0443">high quality and sustainable</tspan><tspan x="254.2" y="24.1" fill="#231F20" font-family="'Graphik-Light'" font-size="20.0443"> </tspan><tspan x="259.1" y="24.1" fill="#231F20" font-family="'Lato-Light'" font-size="20.0443">products </tspan><tspan x="0" y="48.1" fill="#231F20" font-family="'Lato-Light'" font-size="20.0443">available to anyone anywhere </tspan></text>
 	<line fill="#231F20" x1="112.2" y1="130.8" x2="112.2" y2="194.8"/>
+</g>
+<g id="Layer_5" display="none">
 </g>
 </svg>
