@@ -1,6 +1,8 @@
  <!-- Posts layout -->
 <section> 
 	<div class="container-fluid" style="padding-bottom: 150px">
+
+
 		 <div class = "row" style= "padding-top: 80px;"> 
 		 	<div class="col-md-4">
 			   	<h1 style="font-size: 66px; letter-spacing:1.2px; ">{{page.title}}</h1>
@@ -10,7 +12,6 @@
 		</div>
 
 		<div class = "row" style= "padding-top: 40px;"> 
-
 		 	<div class="col-md-4" style="padding-right:50px; padding-bottom: 180px;">
 			   	<p class="large" style="margin-bottom: 0em;">{{content}}</p>
 			    <p style="margin-bottom: 0em;"><b>Designer: </b> {{ page.designer}}</p>
@@ -46,13 +47,23 @@
 			   		<div style="width: 50%; float: left;"><p><b>€{{page.rffprice}}</b></p></div>
 			   		<div style="width: 50%; float: left;"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
 			   	</div>
-
 			</div>	
 
 			<div class="col-md-8">
 			   {% include photo-gallery.html %}
 			</div>	
+		</div>
 
+		<div class="row" style="padding-bottom:40px; padding-top: 120px;">
+	        <div class="col-md-4">
+	            <h1 style="margin-top:0px;">Assembly instructions</h1>
+	        </div>
+        	<div class="col-md-2 text-center" style="background-color: #{{ site.color.primary}}; height:10px; margin:16px 0px;">
+        	</div>
+    	</div> 
+
+		<div class = "row" style= "padding-top: 40px;"> 
+			<img class = "assembly" src="{{page.assembly}}">
 		</div>
 
 	</div>	
