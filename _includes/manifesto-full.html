@@ -1,35 +1,144 @@
-<!-- What Section -->
-<section id="what">    
-    <div class="container-fluid">
-        
-        <div class="row" style="padding-bottom:80px;">
+<!-- Manifesto Page -->
 
-            <div class="col-md-4 text-center" style="background-color: #{{ site.color.primary}}; height:10px; margin:16px 0px;">
-            </div>
-            <div class="col-md-4 text-center">
-                <h1 style="margin-top:0px;">WHAT</h1>
-            </div>
-            <div class="col-md-4 text-center" style="background-color: #{{ site.color.primary}}; height:10px; margin:16px 0px;">
-            </div>
 
-        </div> 
+<!--Carousel -->
 
-        <div class="row">
-            <div class="col-md-6" style="border-right: 1px solid #{{ site.color.primary}} ">
-               <p class="large"> The more you participate, <br> the less you pay </p>
-               <p style="padding-right: 10px;">Fab Market is an online market where you can find a variety of locally made products designed by people from all over the world. Products are sold ready for <b>use, assembly or fabrication </b>, giving the user the ability to participate in the making process. The more he participates, the less he pays for the products.</p>
-            </div>
-            <div class="col-md-6">
-                <p class="quote" style="padding-left:25px; padding-top:30px;"> With digital fabrication quality products can be customized, resourced, made and sold locally supporting communities, at the same time bringing the users closer to the making of the things they own. </p>
-            </div>
-        </div> 
-        
-        <div class="row"> 
-            <div class="col-lg-12">
-                <div class="text">
-                    <a href="#what-full" class="btn btn-primary white right-align" style="margin: 20px 0px">Read the full manifesto</a> 
-                </div>  
-            </div>     
-        </div> 
-    </div>   
-</section>
+<div id="manifestoCarousel" class="carousel slide" >
+    <!--Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#manifestoCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#manifestoCarousel" data-slide-to="1"></li>
+        <li data-target="#manifestoCarousel" data-slide-to="2"></li>
+        <li data-target="#manifestoCarousel" data-slide-to="3"></li>
+        <li data-target="#manifestoCarousel" data-slide-to="4"></li>
+        <li data-target="#manifestoCarousel" data-slide-to="5"></li>
+        <li data-target="#manifestoCarousel" data-slide-to="6"></li>
+    </ol> 
+
+    <!-- Wrapper for Slides -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <!-- Set the first background image using inline CSS below. -->
+            <div class="fill" style="background-image:url('../img/manifesto/0.svg');"></div>
+            <!---<div class="carousel-caption"> <h2>Caption 1</h2></div>-->
+        </div>
+
+        <div class="item">
+            <!-- Set the second background image using inline CSS below. -->
+            <div class="fill" style="background-image:url('../img/manifesto/1.svg')"></div>
+            <!--<div class="carousel-caption"><h2>Caption 2</h2></div>-->
+        </div>
+
+        <div class="item">
+            <!-- Set the third background image using inline CSS below. -->
+            <div class="fill" style="background-image:url('../img/manifesto/2.svg')"></div>
+            
+        </div>
+        <div class="item">
+            <!-- Set the third background image using inline CSS below. -->
+            <div class="fill" style="background-image:url('../img/manifesto/3.svg')"></div>
+            
+        </div>
+        <div class="item">
+            <!-- Set the third background image using inline CSS below. -->
+            <div class="fill" style="background-image:url('../img/manifesto/4.svg')"></div>
+            <!--<div class="carousel-caption"><h2>Caption 3</h2></div>-->
+        </div>
+
+        <div class="item">
+            <!-- Set the third background image using inline CSS below. -->
+            <div class="fill" style="background-image:url('../img/manifesto/5.svg')"></div>
+            <!--<div class="carousel-caption"><h2>Caption 3</h2></div>-->
+        </div>
+        <div class="item">
+            <!-- Set the third background image using inline CSS below. -->
+            <div class="fill" style="background-image:url('../img/manifesto/6.svg')"></div>
+            <!--<div class="carousel-caption"><h2>Caption 3</h2></div>-->
+        </div>
+    </div>
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#manifestoCarousel" data-slide="prev">
+        <span class="icon-prev"></span>
+    </a>
+    <a class="right carousel-control" href="#manifestoCarousel" data-slide="next">
+        <span class="icon-next"></span>
+    </a>
+
+</div>
+
+
+
+<!--What -->
+
+<div class="container-fluid" style="padding-top:150px;">
+    <div class="row" style="padding-bottom:80px;">
+        <div class="col-md-2">
+            <h1 style="margin-top:0px;">WHAT</h1>
+        </div>
+        <div class="col-md-10 text-center" style="background-color: #{{ site.color.primary}}; height:10px; margin:16px 0px;">
+        </div>
+    </div> 
+
+    <div class="row">
+        <div class="col-md-3" style="border-right: 1px solid #{{ site.color.primary}} ">
+        </div>
+        <div class="col-md-9">
+            <p class="quote" style="padding-top:30px;"> The <b>Fab Lab Network</b> intends to educate society about making almost anything we need. Using <b>digital fabrication</b> as its main focus the network promotes the idea of <b>distributed manufacturing.</b> With this model designs can be sent to the other end of our planet, modified and made in the same day. </p>
+            <p class="quote"> Using good design CNC machines, laser cutters, 3D printers and other simple tools can create nearly any object big or small compatible to mass products on the market. Today the network is <b>approaching 1000 labs globally.</b> </p>
+            <p class="quote"> The <b>Fab Market</b> is a new <b>online shop </b>where you can find a variety of locally made products designed by people from all over the world. All products are <b>open-source</b> and sold <b>ready for use, assembly or fabrication</b> giving people the ability to participate in the making process. The more you participate, the less you pay for the product.</p>
+        </div>
+    </div> 
+</div>   
+
+
+
+<!--Why -->
+
+<div class="container-fluid" style="padding-top: 100px;">
+    <div class="row" style="padding-bottom: 50px;">
+        <div class="col-md-10 text-center" style="background-color: #{{ site.color.primary}}; height:10px; margin:16px 0px;">
+        </div>
+        <div class="col-md-2 text-center">
+            <h1 style="margin-top:0px;">WHY</h1>
+        </div>
+    </div> 
+    <div class="row">
+        <div class="col-md-9">
+            <p class="quote" style="padding-top:30px;"> With open source designs and distributed manufacturing, <b>quality products</b> can be customized, resourced, fabricated and sold locally to <b>support communities.</b> At the same time, this brings people closer to the making of the things they own.</p> 
+            <p class="quote">Making <b>products that adapt</b> to people's needs, culture or taste, and giving the buyer direct contact with the supplier, increases <b>transparency</b> in the supply chain and gives the opportunity to know exactly who you are working with and how. 
+            <p class="quote">The Fab Market wants to give talented creators, designers or makers a place where they can <b>fabricate</b> their creations for a <b>low price</b> and <b>sell globally</b> at the same time.</p> 
+            <p class="quote">By <b>eliminating long distance shipping of materials and products,</b> both time and cost can be taken off the production process, giving room for <b>reducing</b> costs of the final product.</p>
+        </div>
+        <div class="col-md-3" style="border-right: 1px solid #{{ site.color.primary}} ">
+        </div>
+    </div> 
+</div>    
+
+
+
+<!--How -->
+
+<div class="container-fluid" style="padding-top:150px;">
+    <div class="row" style="padding-bottom:80px;">
+        <div class="col-md-2">
+            <h1 style="margin-top:0px;">WHAT</h1>
+        </div>
+        <div class="col-md-10 text-center" style="background-color: #{{ site.color.primary}}; height:10px; margin:16px 0px;">
+        </div>
+    </div> 
+
+    <div class="row">
+        <div class="col-md-3" style="border-right: 1px solid #{{ site.color.primary}} ">
+        </div>
+        <div class="col-md-9">
+            <p class="quote" style="padding-top:30px;"> We want to invite <b>all FabLabs around the world</b> to become a part of the Fab Market network in order to create a distributed economy. By working together, <b>sharing knowledge, equipment and customers,</b> creates the opportunity for scalability without a great amount of investment.</p> 
+            <p class="quote">We enable makers and local Fablabs to manage the production and sale of their projects collaboratively with a <b>fair</b> split of the revenue.</p>
+            <p class="quote">Fab Market wants to offer <b>good designs made to last</b> and there for all products need to be approved and tested before going on sale. Products have to be fairly easy to fabricate and come with step by step assembly instructions. <b>Anyone can propose designs</b> to sell at the Fab Market. In exchange for excellence Fab Labs give a special discount of the fabrication cost every time a product is sold.</p>
+            <a href="#what-full" class="btn btn-primary white" style="margin: 0px 20px">Submit a design </a>
+        </div>
+    </div> 
+</div>   
+
+
+
