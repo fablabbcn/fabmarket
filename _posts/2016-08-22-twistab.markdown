@@ -7,7 +7,7 @@ headphoto: /img/products/twistab/twistab-head
 permalink: /twistab
 images:  
   - image_path: /img/products/twistab/twistab-detail-0
-  - image_path: /img/products/twistab/twistab-detail-1
+  - image_path: 
 rfuprice: 0
 rfaprice: 0
 rffprice: 0
