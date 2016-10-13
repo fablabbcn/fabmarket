@@ -8,9 +8,9 @@ permalink: /bouncy-box
 images:  
   - image_path: /img/products/bouncy-box/bouncy-box-detail-0
   - image_path: /img/products/bouncy-box/bouncy-box-detail-1
-rfuprice: 400
-rfaprice: 150
-rffprice: 5
+rfuprice: 0
+rfaprice: 0
+rffprice: 0
 assembly: /img/products/bouncy-box/bouncy-box.png 
 ---
 
