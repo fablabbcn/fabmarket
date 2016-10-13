@@ -1387,4 +1387,26 @@ body {
 }
 
 
+/*Price info Modals */
 
+@media (min-width: 768px) {
+    .modal-dialog {
+        width: 900px;
+    }
+}
+
+.modal-header{
+    padding: 25px 30px 0px 30px;
+}
+
+.modal-title {
+    color: #{{ site.color.whites }};
+}
+
+.modal-body {
+    padding: 25px 30px 0px 30px;
+}
+
+.modal-body p {
+    color: #{{ site.color.whites }};
+}
