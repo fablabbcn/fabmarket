@@ -3,7 +3,7 @@ title: TWISTAB
 designer: Isaac Pierre
 layout: posts
 date: 2014-07-18
-headphoto: /img/products/rack/rack-head
+headphoto: /img/products/twistab/twistab-head
 permalink: /twistab
 images:  
   - image_path: /img/products/twistab/twistab-detail-0
