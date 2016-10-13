@@ -4,14 +4,14 @@ designer: Ingi Guðjonsson
 layout: posts
 date: 2014-07-18
 headphoto: /img/products/taska/taska-head
-permalink: /rack
+permalink: /taska
 images:  
   - image_path: /img/products/taska/taska-detail-0
   - image_path: /img/products/taska/taska-detail-1
   - image_path: /img/products/taska/taska-detail-2
-rfuprice: 400
-rfaprice: 150
-rffprice: 5
+rfuprice: soon
+rfaprice: soon
+rffprice: soon
 assembly: /img/products/rack/taska-assembly.png 
 ---
 
