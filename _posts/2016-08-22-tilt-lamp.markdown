@@ -1,0 +1,17 @@
+---
+title: TILT LAMP
+designer: Ingi Guðjonsson
+layout: posts
+date: 2014-07-18
+headphoto: /img/products/tilt-lamp/tilt-lamp-head
+permalink: /tilt-lamp
+images:  
+  - image_path: /img/products/tilt-lamp/tilt-lamp-detail-0
+  - image_path: /img/products/tilt-lamp/tilt-lamp-detail-1
+rfuprice: 0
+rfaprice: 0
+rffprice: 0
+assembly: /img/products/tilt-lamp/tilt-lamp-assembly.png 
+---
+
+Coming soon!

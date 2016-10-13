@@ -1,0 +1,20 @@
+---
+title: TASKA
+designer: Ingi Guðjonsson
+layout: posts
+date: 2014-07-18
+headphoto: /img/products/taska/taska-head
+permalink: /taska
+images:  
+  - image_path: /img/products/taska/taska-detail-0
+  - image_path: /img/products/taska/taska-detail-1
+  - image_path: /img/products/taska/taska-detail-2
+rfuprice: 0
+rfaprice: 0
+rffprice: 0
+assembly: /img/products/rack/taska-assembly.png 
+---
+
+Coming soon!
+
+A multifunctional bag made to carry everything from a laptop to all your camping gear. The design of the pattern is simple and simetric so it can be cut in a laser-bed of 60 x90 cm. The bag can be made from one single piece of almost any textile, which makes it easy to assemble. Eliminating weight-carrying seams gives it more durability and longer life expectancy. With any wood and textile Taska can be easily made in a local Lab.
