@@ -1,6 +1,6 @@
 ---
 title: BOUNCY BOX
-designer: 
+designer:  Angel Munos and Joan Marín
 layout: posts
 date: 2014-07-18
 headphoto: /img/products/bouncy-box/bouncy-box-head
@@ -14,4 +14,6 @@ rffprice: 0
 assembly: /img/products/bouncy-box/bouncy-box.png 
 ---
 
-Coming soon!
+Coming soon! 
+
+A bluetooth portable sound system, handcrafted with selective materials, built into vintage objects (luggages, cases, furniture…) powered with high quality amplifiers and drivers. They are portable, rechargeable, just plug or pair – with bluetooth – your phone or laptop, and you will be ready to party anywhere, anytime!

@@ -15,3 +15,5 @@ assembly:
 ---
 
 Coming soon!
+
+A ceiling light made from layers of flexible wood. The light is designed for workspaces with the ability to change strengh and location according to need. The structure is simple to make using only a CNC and a vacuum press.

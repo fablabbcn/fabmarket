@@ -15,3 +15,5 @@ assembly: /img/products/vinyl-stone/vinyl-stone-assembly.png
 ---
 
 Coming soon!
+
+Vinyl stand for up to 30 records made with a small concrete casting using only 1 liter of concrete. The design is CNC milled in foam.
