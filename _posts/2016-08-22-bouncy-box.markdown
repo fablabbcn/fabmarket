@@ -1,17 +1,17 @@
 ---
-title: RACK
-designer: Ingi Guðjonsson
+title: BOUNCY BOX
+designer: 
 layout: posts
 date: 2014-07-18
-headphoto: /img/products/rack/rack-head
-permalink: /rack
+headphoto: /img/products/bouncy-box/bouncy-box-head
+permalink: /bouncy-box
 images:  
-  - image_path: /img/products/rack/rack-detail-0
-  - image_path: /img/products/rack/rack-detail-1
+  - image_path: /img/products/bouncy-box/bouncy-box-detail-0
+  - image_path: /img/products/bouncy-box/bouncy-box-detail-1
 rfuprice: 400
 rfaprice: 150
 rffprice: 5
-assembly: /img/products/rack/rack-assembly.png 
+assembly: /img/products/bouncy-box/bouncy-box.png 
 ---
 
-Steel rods and a wooden bar take the form of a vertical bike rack. 7 bikes or boards are stored in a 2.4 meter wall space. The design is simple and can easily be changed for your needs. 
+Coming soon!

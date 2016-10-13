@@ -1,17 +1,17 @@
 ---
-title: RACK
+title: VINYL STONE
 designer: Ingi Guðjonsson
 layout: posts
 date: 2014-07-18
-headphoto: /img/products/rack/rack-head
-permalink: /rack
+headphoto: /img/products/vinyl-stone/vinyl-stone-head
+permalink: /vinyl-stone
 images:  
-  - image_path: /img/products/rack/rack-detail-0
-  - image_path: /img/products/rack/rack-detail-1
-rfuprice: 400
-rfaprice: 150
-rffprice: 5
-assembly: /img/products/rack/rack-assembly.png 
+  - image_path: /img/products/vinyl-stone/vinyl-stone-detail-0
+  - image_path: /img/products/vinyl-stone/vinyl-stone-1
+rfuprice: 0
+rfaprice: 0
+rffprice: 0
+assembly: /img/products/vinyl-stone/vinyl-stone-assembly.png 
 ---
 
-Steel rods and a wooden bar take the form of a vertical bike rack. 7 bikes or boards are stored in a 2.4 meter wall space. The design is simple and can easily be changed for your needs. 
+Coming soon!
