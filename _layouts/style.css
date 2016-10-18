@@ -50,7 +50,13 @@ section{
 }
 
 .title {
-    padding-bottom:90px;
+    padding-bottom:50px;
+}
+
+@media(min-width:767px) {
+    .title {
+        padding-bottom:90px;
+    }
 }
 
 .line {
@@ -90,11 +96,20 @@ p.large {
 
 p.quote {
     font-weight: 300;
-    font-size: 30px;
     line-height: 1.5;
+    font-size: 25px;
     padding-right: 10px;
     padding-top: 0px;
+    padding-left:0px; 
 }
+
+
+@media(min-width:767px) {
+    p.quote {
+        font-size: 30px;
+        padding-left:25px; 
+    }
+} 
 
 
 a,
@@ -545,6 +560,9 @@ h4.section-small-highlight{
 }
 
 /*---WHAT SECTION--*/ 
+#what{
+    margin-bottom: 100px;
+}
 
 .left-line {
     border-left: 0px;
@@ -564,18 +582,6 @@ h4.section-small-highlight{
     .right-line {
         border-right: 1px solid #{{ site.color.primary}} ;
     } 
-} 
-
-.quote {
-    padding-left:0px; 
-    padding-top:30px;
-}
-
-@media(min-width:767px) {
-    .quote {
-        padding-left:25px; 
-        padding-top:10px;
-    }
 } 
 
 
@@ -1053,7 +1059,7 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
-    background-color: #000000;;
+    background-color: #000000;
 }
 
 h4.footer-titles {
