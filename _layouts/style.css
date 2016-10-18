@@ -27,11 +27,28 @@ body {
     color: #{{ site.color.secondary }};
 }
 
-.container-fluid {
-    padding-right: 45px;
-    padding-left: 45px;
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
+@media(min-width:767px) {
+    .row {
+        margin-right: 25px;
+        margin-left: 25px;
+    }
+}
+
+.title {
+    padding-bottom:80px;
+}
+
+.line {
+    height:10px;
+    margin:16px 0px;
+    background-color: #{{ site.color.primary}};
+}
   
 .text-muted {
     color: #777;
@@ -48,7 +65,6 @@ p {
     color: #{{ site.color.secondary }};
     margin-top: 0em;
     margin-bottom: 1.3em;
-
 }
 
 p.large {
@@ -135,7 +151,7 @@ filled with th primary color defined in config*/
     border-radius: 0;
     background-color: #{{ site.color.primary }};
     border-color: #{{ site.color.primary }};
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.whites }};
 }
 
 /*Alternative button, a bolder take to highlight special buttons
@@ -145,7 +161,6 @@ black border and white background*/
     border: 2px solid;
     border-color: #{{ site.color.secondary }};
     color: #{{ site.color.secondary }};
-
 }
 
 /*--> white option inverted*/
@@ -447,6 +462,10 @@ fieldset[disabled] .btn-xl.active {
   text-align: center;
 }
 
+.navbar {
+    min-height: 90px;
+}
+
 
 /*---WEBSITE HEADERS-*/ 
 
@@ -547,8 +566,46 @@ h4.section-small-highlight{
 /*---WHAT SECTION--*/ 
 
 section#what {
-    padding: 190px 0px 0px 0px;
+    padding: 80px 0px 0px 0px;
 }
+
+@media(min-width:767px) {
+    section#what {
+     padding: 190px 0px 0px 0px;
+    }
+} 
+
+.left-line {
+    border-left: 0px;
+}
+
+@media(min-width:767px) {
+    .left-line{
+        border-left: 1px solid #{{ site.color.primary}} ;
+    } 
+} 
+
+.right-line {
+    border-right: 0px;
+}
+
+@media(min-width:767px) {
+    .right-line {
+        border-right: 1px solid #{{ site.color.primary}} ;
+    } 
+} 
+
+.quote {
+    padding-left:0px; 
+    padding-top:30px;
+}
+
+@media(min-width:767px) {
+    .quote {
+        padding-left:25px; 
+        padding-top:10px;
+    }
+} 
 
 
 
@@ -1410,3 +1467,9 @@ body {
 .modal-body p {
     color: #{{ site.color.whites }};
 }
+
+
+
+/* Section divs */
+
+
