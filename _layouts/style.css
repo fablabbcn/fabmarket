@@ -60,13 +60,26 @@ section{
 }
 
 .line {
-    height:10px;
+    height:6px;
     margin:16px 0px;
     background-color: #{{ site.color.primary}};
 }
+
+@media(min-width:767px) {
+    .line {
+        height:10px;
+    }
+}
+
   
 .button {
-    padding: 20px 20px 0px 20px;
+    padding: 20px 20px 0px 0px;
+}
+
+@media(min-width:767px) {
+    .button {
+        padding: 20px 20px 0px 20px;
+    }
 }
 
 .text-muted {
@@ -89,15 +102,21 @@ p {
 }
 
 p.large {
-    font-size: 35px;
+    font-size: 28px;
     line-height: 1.3;
     padding-right: 20px;
 }
 
+@media(min-width:767px) {
+    p.large {
+        font-size: 35px;
+    }
+} 
+
 p.quote {
     font-weight: 300;
     line-height: 1.5;
-    font-size: 25px;
+    font-size: 22px;
     padding-right: 10px;
     padding-top: 0px;
     padding-left:0px; 
@@ -483,6 +502,18 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
+.logo-mobile {
+        height:20px;
+        margin-top: 12px;
+        padding-left: 15px;
+    }
+
+@media(min-width:768px) {
+    .logo-mobile {
+        height:0px;
+    }
+}
+
 
 /* cnetered test */
  .navbar-nav {
@@ -547,6 +578,13 @@ header .intro-text .intro-heading {
 
 h1.section-title {
     margin-top:0px;
+    font-size: 28px;
+}
+
+@media(min-width:768px) {
+    h1.section-title {
+        font-size: 36px;
+    }
 }
 
 
