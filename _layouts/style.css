@@ -53,6 +53,10 @@ section{
     padding-bottom:50px;
 }
 
+.title-manifesto {
+    padding-bottom:30px;
+}
+
 @media(min-width:767px) {
     .title {
         padding-bottom:90px;
@@ -503,7 +507,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .logo-mobile {
-        height:20px;
+        height:25px;
         margin-top: 12px;
         padding-left: 15px;
     }
@@ -622,7 +626,15 @@ h4.section-small-highlight{
     } 
 } 
 
+.manifesto-what{
+    padding-top: 120px;
+}
 
+@media(min-width:767px) {
+    .manifesto-what{
+        padding-top: 250px;
+    }
+} 
 
 /*---CONTENT MOSAIC SECTION--*/ 
 
