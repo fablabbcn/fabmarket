@@ -1558,21 +1558,6 @@ h1.product-title {
     margin-right: 0px;  
 }
 
-.price-row {
-    padding-top: 20px;
-    padding-bottom: 41px;
-}
-
-.price-desc {
-    width: 70%; 
-    float: left;
-}
-
-.price-desc p, .price p {
-    padding: 0px; 
-    margin: 0px;
-    font-weight: bold;
-}
 
 .prices p{
     padding: 0px; 
@@ -1586,12 +1571,4 @@ h1.product-title {
     font-size:14px;
 }
 
-.price {
-    width: 30%; 
-    float: left;
-}
 
-.disclaimer {
-    width: 30%; 
-    float: left;
-}
