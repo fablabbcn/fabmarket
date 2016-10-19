@@ -707,7 +707,7 @@ section#content-mosaic {
     color: transparent;
 }
 
-.subtitle :hover {
+.subtitle :hover, .subtitle:focus, .subtitle:active {
     color: #{{ site.color.whites }};
 }
 
