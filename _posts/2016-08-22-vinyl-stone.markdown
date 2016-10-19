@@ -11,7 +11,8 @@ images:
 rfuprice: 0
 rfaprice: 0
 rffprice: 0
-assembly: /img/products/vinyl-stone/vinyl-stone-assembly.png 
+assembly: 
+downloadurl:
 ---
 
 Coming soon!

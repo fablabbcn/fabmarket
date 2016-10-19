@@ -11,7 +11,8 @@ images:
 rfuprice: 0
 rfaprice: 0
 rffprice: 0
-assembly: /img/products/tilt-lamp/tilt-lamp-assembly.png 
+assembly: 
+downloadurl:
 ---
 
 Coming soon!
