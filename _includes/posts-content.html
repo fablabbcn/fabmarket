@@ -3,16 +3,15 @@
 	<div class="container">
 
 		 <div class="row product-header"> 
-		 	<div class="col-md-4">
+		 	<div class="col-md-4 col-xs-12">
 			   	<h1 class="product-title">{{page.title}}</h1>
 			</div>	
-			<div class="col-md-8 text-center line product-line">
+			<div class="col-md-8 col-xs-12 text-center line product-line">
 			</div>	
 		</div>
 
 		<div class="row"> 
-		 	<div class="col-md-4 product-information">
-
+		 	<div class="col-md-4 col-xs-12 product-information">
 			   	<p class="product-description">{{content}}</p>
 			    <p class="product-description"><b>Designer: </b> {{ page.designer}}</p>
 			    
@@ -21,8 +20,7 @@
 			   		<div class="price"><p>€{{page.rfuprice}}</p></div>
 			   	</div>	
 
-
-			   	 <div class="price-row">
+			   	<div class="price-row">
 			   		<div class="pay"><p class="text-muted">Online purchase coming soon!</p></div>
 			   		<div class="disclaimer" data-toggle="modal" data-target="#useModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
 			    </div>
@@ -50,7 +48,7 @@
 			   	</div>
 			</div>	
 
-			<div class="col-md-8">
+			<div class="col-md-8 col-xs-12">
 			   {% include photo-gallery.html %}
 			</div>	
 		</div>

@@ -1514,9 +1514,16 @@ h1.product-title {
     margin:30px 0px 0px 0px;
 }
 
+
 .product-information {
-    padding-right:50px; 
-    padding-bottom: 180px;
+    padding-right: 0px; 
+    padding-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+    .product-information {
+        padding-right: 50px; 
+    }
 }
 
 .product-description {
