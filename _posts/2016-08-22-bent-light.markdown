@@ -12,7 +12,6 @@ rfuprice: 0
 rfaprice: 0
 rffprice: 0
 assembly: 
-downloadurl:
 ---
 
 Coming soon!

@@ -11,8 +11,7 @@ images:
 rfuprice: 0
 rfaprice: 0
 rffprice: 0
-assembly: 
-downloadurl:
+assembly: /img/products/sound-hanger/sound-hanger-assembly.png 
 ---
 
 Coming soon! 
