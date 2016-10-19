@@ -500,14 +500,13 @@ fieldset[disabled] .btn-xl.active {
     }
 
 @media(min-width:768px) {
-
     .header-logo {
         height:40px;
     }
 }
 
 .logo-mobile {
-        height:25px;
+        height:29px;
         margin-top: 12px;
         padding-left: 15px;
     }
