@@ -1,5 +1,5 @@
  <!-- Posts layout -->
-<section> 
+<section id=""> 
 	<div class="container" style="padding-bottom: 150px">
 
 
@@ -43,9 +43,11 @@
 			   		<div style="width: 70%; float: left;"> <p style="padding: 0px; margin: 0px;"><b>Ready for fabrication</b></p></div> 
 			   		<div style="width: 30%; float: left"><p style="padding: 0px; margin: 0px;"><b>€{{page.rffprice}}</b></p></div>
 			   	</div>	
-
+			   	
 			   	<div style="padding-top: 20px;">
-			   		<div style="width: 70%; float: left;"><p class="text-muted" style="font-size:14px;">Online purchase coming soon!</p></div>
+			   		<a href="{{ page.downloadurl }}">
+			   		<div style="width: 70%; float: left;"><p class="text-muted" style="font-size:14px;">Download de files</p></div>
+			   		</a>
 			   		<div style="width: 30%; float: left;" data-toggle="modal" data-target="#useModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
 			   	</div>
 			</div>	
