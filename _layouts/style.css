@@ -80,7 +80,7 @@ section{
     padding: 20px 20px 0px 0px;
 }
 
-@media(min-width:767px) {
+@media(min-width:992px) {
     .button {
         padding: 20px 20px 0px 20px;
     }
@@ -127,7 +127,7 @@ p.quote {
 }
 
 
-@media(min-width:767px) {
+@media(min-width:992px) {
     p.quote {
         font-size: 30px;
         padding-left:25px; 
@@ -610,7 +610,7 @@ h4.section-small-highlight{
     border-left: 0px;
 }
 
-@media(min-width:767px) {
+@media(min-width:992px) {
     .left-line{
         border-left: 1px solid #{{ site.color.primary}} ;
     } 
@@ -620,7 +620,7 @@ h4.section-small-highlight{
     border-right: 0px;
 }
 
-@media(min-width:767px) {
+@media(min-width:992px) {
     .right-line {
         border-right: 1px solid #{{ site.color.primary}} ;
     } 
