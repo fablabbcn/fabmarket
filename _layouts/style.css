@@ -229,10 +229,11 @@ black border and white background*/
 
 /*-Option for tags and smaller sized buttons*/
 
-.tag {
-    font-size: 12px;
+.btn-pay {
+    font-size: 10px;
     padding: 5px 20px;    
     margin: 0px;
+    border-radius: 6px; 
 }
 
 /* Right align button option */
@@ -681,7 +682,6 @@ section#content-mosaic {
 
 .row a{
     text-decoration: none;
-    color: #000000;
     }
 
 .tweet a {
@@ -1558,6 +1558,7 @@ h1.product-title {
 
 .price-row {
     padding-top: 20px;
+    padding-bottom: 41px;
 }
 
 .price-desc {
