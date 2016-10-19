@@ -11,7 +11,8 @@ images:
 rfuprice: 0
 rfaprice: 0
 rffprice: 0
-assembly: /img/products/concrete-bowl/concrete-bowl-assembly.png 
+assembly: 
+downloadurl:
 ---
 
 Coming soon!

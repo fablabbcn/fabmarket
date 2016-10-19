@@ -12,6 +12,7 @@ rfuprice: 400
 rfaprice: 150
 rffprice: 5
 assembly: /img/products/rack/rack-assembly.png 
+downloadurl:
 ---
 
 Coming soon! 
