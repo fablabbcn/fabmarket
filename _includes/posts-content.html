@@ -2,7 +2,6 @@
 <section id="products"> 
 	<div class="container">
 
-
 		 <div class="row product-header"> 
 		 	<div class="col-md-4">
 			   	<h1 class="product-title">{{page.title}}</h1>
@@ -56,7 +55,6 @@
 			</div>	
 		</div>
 
-
 		<!--
 		<div class="row" style="padding-bottom:40px; padding-top: 120px;">
 	        <div class="col-md-4">
@@ -70,64 +68,7 @@
 			<img class = "assembly" src="{{page.assembly}}">
 		</div> -->
 		
-
 	</div>	
 </section>
 
-
-<!-- Modals -->
-<div id="useModal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <!-- Modal content-->
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Ready for Use</h4>
-      </div>
-      <div class="modal-body">
-        <p>Once the order has been placed the product will be delivered within 10 days. </p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<div id="assemblyModal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <!-- Modal content-->
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Ready for assembly</h4>
-      </div>
-      <div class="modal-body">
-        <p>Pre-fabricated parts are packaged and delivered with step by step assembly instructions. Once the order has been placed the parts will be delivered within 10 days.</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<div id="fabricationModal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <!-- Modal content-->
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Ready for fabrication</h4>
-      </div>
-      <div class="modal-body">
-        <p>Open source files ready for fabrication in a local FabLab or a private lab.</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
+{% include price-modals.html %}
