@@ -16,35 +16,35 @@
 			   	<p class="product-description">{{content}}</p>
 			    <p class="product-description"><b>Designer: </b> {{ page.designer}}</p>
 			    
-			    <div class="price-module">
-			   		<div class="price-desc"><p style="padding: 0px; margin: 0px;"><b>Ready for use</b></p></div> 
-			   		<div class="price"><p style="padding: 0px; margin: 0px;"><b>€{{page.rfuprice}}</b></p></div>
+			    <div class="price-top">
+			   		<div class="price-desc"><p>Ready for use</p></div> 
+			   		<div class="price"><p>€{{page.rfuprice}}</p></div>
 			   	</div>	
 
 
-			   	 <div style="padding: 20px 0px 0px 0px;">
-			   		<div class="pay"><p class="text-muted" style="font-size:14px;">Online purchase coming soon!</p></div>
+			   	 <div class="price-row">
+			   		<div class="pay"><p class="text-muted">Online purchase coming soon!</p></div>
 			   		<div class="disclaimer" data-toggle="modal" data-target="#useModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
 			    </div>
 
-			    <div style="padding-top: 20px;">
-			   		<div class="price-desc"> <p style="padding: 0px; margin: 0px;"><b>Ready for assembly</b></p></div> 
-			   		<div class="price"><p style="padding: 0px; margin: 0px;"><b>€{{page.rfaprice}}</b></p></div>
+			    <div sclass="price-row">
+			   		<div class="price-desc"> <p>Ready for assembly</p></div> 
+			   		<div class="price"><p>€{{page.rfaprice}}</p></div>
 			   	</div>	
 			   		
-			   	<div style="padding-top: 20px;">
-			   		<div class="pay"><p class="text-muted" style="font-size:14px;">Online purchase coming soon!</p></div>
+			   	<div class="price-row">
+			   		<div class="pay"><p class="text-muted">Online purchase coming soon!</p></div>
 			   		<div class="disclaimer" data-toggle="modal" data-target="#assemblyModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
 			    </div>
 
-			    <div style="padding-top: 20px;">
-			   		<div class="price-desc"> <p style="padding: 0px; margin: 0px;"><b>Ready for fabrication</b></p></div> 
-			   		<div class="disclaimer"><p style="padding: 0px; margin: 0px;"><b>€{{page.rffprice}}</b></p></div>
+			    <div class="price-row">
+			   		<div class="price-desc"><p>Ready for fabrication</p></div> 
+			   		<div class="price"><p>€{{page.rffprice}}</p></div>
 			   	</div>	
 			   	
-			   	<div style="padding-top: 20px;">
+			   	<div class="price-row">
 			   		<a href="{{ page.downloadurl }}">
-			   		<div class="pay"><p class="text-muted" style="font-size:14px;">Download the files</p></div>
+			   		<div class="pay"><p class="text-muted">Download the files</p></div>
 			   		</a>
 			   		<div class="disclaimer" data-toggle="modal" data-target="#fabricationModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
 			   	</div>

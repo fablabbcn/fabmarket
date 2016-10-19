@@ -1523,10 +1523,20 @@ h1.product-title {
     margin-bottom: 0em;
 }
 
-.price-module {
+.price-ready {
     margin-top: 30px; 
     padding: 20px 0px 0px 0px; 
     border-top: 1px solid #{{ site.color.primary}}; 
+}
+
+.price-top {
+    margin-top: 30px; 
+    padding: 20px 0px 0px 0px; 
+    border-top: 1px solid #{{ site.color.primary}}; 
+}
+
+.price-row {
+    padding-top: 20px;
 }
 
 .price-desc {
@@ -1534,9 +1544,19 @@ h1.product-title {
     float: left;
 }
 
+.price-desc p, .price p {
+    padding: 0px; 
+    margin: 0px;
+    font-weight: bold;
+}
+
 .pay {
     width: 70%; 
     float: left;
+}
+
+.pay p {
+    font-size:14px;
 }
 
 .price {
