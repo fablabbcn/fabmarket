@@ -6,8 +6,8 @@ date: 2014-07-18
 headphoto: /img/products/twistab/twistab-head
 permalink: /twistab
 images:  
-  - image_path: /img/products/twistab/twistab-detail-0
-  - image_path: 
+  - image_path: /img/products/twistab/46cm-UNI-grey
+  - image_path: /img/products/twistab/46cm-UNI-white
 rfuprice: 0
 rfaprice: 0
 rffprice: 0
