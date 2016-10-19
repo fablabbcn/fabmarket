@@ -1,54 +1,53 @@
  <!-- Posts layout -->
-<section id=""> 
-	<div class="container" style="padding-bottom: 150px">
+<section id="products"> 
+	<div class="container">
 
 
-		 <div class = "row" style= "padding-top: 80px;"> 
+		 <div class="row product-header"> 
 		 	<div class="col-md-4">
-			   	<h1 style="font-size: 66px; letter-spacing:1.2px; ">{{page.title}}</h1>
+			   	<h1 class="product-title">{{page.title}}</h1>
 			</div>	
-			<div class="col-md-8 text-center" style="background-color: #{{ site.color.primary}}; height:10px; margin:30px 0px 0px 0px;">
+			<div class="col-md-8 text-center line product-line">
 			</div>	
 		</div>
 
-		<div class = "row" style= "padding-top: 40px;"> 
-		 	<div class="col-md-4" style="padding-right:50px; padding-bottom: 180px;">
+		<div class="row"> 
+		 	<div class="col-md-4 product-information">
 
-			   	<p class="large" style="margin-bottom: 0em;">{{content}}</p>
-			    <p style="margin-bottom: 0em;"><b>Designer: </b> {{ page.designer}}</p>
-			    <div style="height: 30px; border-bottom: 1px solid #{{ site.color.primary}};"> </div>
-
-			    <div style="padding: 20px 0px 0px 0px;">
-			   		<div style="width: 70%; float: left;"><p style="padding: 0px; margin: 0px;"><b>Ready for use</b></p></div> 
-			   		<div style="width: 30%; float: left;"><p style="padding: 0px; margin: 0px;"><b>€{{page.rfuprice}}</b></p></div>
+			   	<p class="product-description">{{content}}</p>
+			    <p class="product-description"><b>Designer: </b> {{ page.designer}}</p>
+			    
+			    <div class="price-module">
+			   		<div class="price-desc"><p style="padding: 0px; margin: 0px;"><b>Ready for use</b></p></div> 
+			   		<div class="price"><p style="padding: 0px; margin: 0px;"><b>€{{page.rfuprice}}</b></p></div>
 			   	</div>	
 
 
 			   	 <div style="padding: 20px 0px 0px 0px;">
-			   		<div style="width: 70%; float: left;"><p class="text-muted" style="font-size:14px;">Online purchase coming soon!</p></div>
-			   		<div style="width: 30%; float: left;" data-toggle="modal" data-target="#useModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
+			   		<div class="pay"><p class="text-muted" style="font-size:14px;">Online purchase coming soon!</p></div>
+			   		<div class="disclaimer" data-toggle="modal" data-target="#useModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
 			    </div>
 
 			    <div style="padding-top: 20px;">
-			   		<div style="width: 70%; float: left;"> <p style="padding: 0px; margin: 0px;"><b>Ready for assembly</b></p></div> 
-			   		<div style="width: 30%; float: left"><p style="padding: 0px; margin: 0px;"><b>€{{page.rfaprice}}</b></p></div>
+			   		<div class="price-desc"> <p style="padding: 0px; margin: 0px;"><b>Ready for assembly</b></p></div> 
+			   		<div class="price"><p style="padding: 0px; margin: 0px;"><b>€{{page.rfaprice}}</b></p></div>
 			   	</div>	
 			   		
 			   	<div style="padding-top: 20px;">
-			   		<div style="width: 70%; float: left;"><p class="text-muted" style="font-size:14px;">Online purchase coming soon!</p></div>
-			   		<div style="width: 30%; float: left;" data-toggle="modal" data-target="#useModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
+			   		<div class="pay"><p class="text-muted" style="font-size:14px;">Online purchase coming soon!</p></div>
+			   		<div class="disclaimer" data-toggle="modal" data-target="#useModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
 			    </div>
 
 			    <div style="padding-top: 20px;">
-			   		<div style="width: 70%; float: left;"> <p style="padding: 0px; margin: 0px;"><b>Ready for fabrication</b></p></div> 
-			   		<div style="width: 30%; float: left"><p style="padding: 0px; margin: 0px;"><b>€{{page.rffprice}}</b></p></div>
+			   		<div class="price-desc"> <p style="padding: 0px; margin: 0px;"><b>Ready for fabrication</b></p></div> 
+			   		<div class="disclaimer"><p style="padding: 0px; margin: 0px;"><b>€{{page.rffprice}}</b></p></div>
 			   	</div>	
 			   	
 			   	<div style="padding-top: 20px;">
 			   		<a href="{{ page.downloadurl }}">
-			   		<div style="width: 70%; float: left;"><p class="text-muted" style="font-size:14px;">Download de files</p></div>
+			   		<div class="pay"><p class="text-muted" style="font-size:14px;">Download the files</p></div>
 			   		</a>
-			   		<div style="width: 30%; float: left;" data-toggle="modal" data-target="#useModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
+			   		<div class="disclaimer" data-toggle="modal" data-target="#useModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
 			   	</div>
 			</div>	
 
