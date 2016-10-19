@@ -15,36 +15,56 @@
 			   	<p class="product-description">{{content}}</p>
 			    <p class="product-description"><b>Designer: </b> {{ page.designer}}</p>
 			    
-			    <div class="price-top">
-			   		<div class="price-desc"><p>Ready for use</p></div> 
-			   		<div class="price"><p>€{{page.rfuprice}}</p></div>
-			   	</div>	
+			    <div class="row price-top">
+			    	<div class="col-md-10 col-xs-6 prices">
+				   		<p>Ready for use</p>
+				   	</div>	
+				   	<div class="col-md-2 col-xs-6 prices">
+				   		<p>€{{page.rfuprice}}</p>
+				   	</div> 	
+				</div>   	
 
-			   	<div class="price-row">
-			   		<div class="pay"><p class="text-muted">Online purchase coming soon!</p></div>
-			   		<div class="disclaimer" data-toggle="modal" data-target="#useModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
+			   	<div class="row price-rows">
+			   		<div class="col-md-10 col-xs-6 pay">
+			   			<p class="text-muted">Online purchase coming soon!</p>
+			   		</div>	
+			   		<div class="col-md-2 col-xs-6" data-toggle="modal" data-target="#useModal">
+			   			<p><i class="fa fa-1x fa-info-circle"></p></i>
+			   		</div>
 			    </div>
 
-			    <div sclass="price-row">
-			   		<div class="price-desc"> <p>Ready for assembly</p></div> 
-			   		<div class="price"><p>€{{page.rfaprice}}</p></div>
+			    <div class="row price-rows">
+			   		<div class="col-md-10 col-xs-6 prices"> 
+			   			<p>Ready for assembly</p>
+			   		</div> 
+			   		<div class="col-md-2 col-xs-6 prices">
+			   			<p>€{{page.rfaprice}}</p>
+			   		</div>
 			   	</div>	
 			   		
-			   	<div class="price-row">
-			   		<div class="pay"><p class="text-muted">Online purchase coming soon!</p></div>
-			   		<div class="disclaimer" data-toggle="modal" data-target="#assemblyModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
+			   	<div class="row price-rows">
+			   		<div class="col-md-10 col-xs-6 pay">
+			   			<p class="text-muted">Online purchase coming soon!</p>
+			   		</div>
+			   		<div class="col-md-2 col-xs-6" data-toggle="modal" data-target="#assemblyModal">
+			   			<p><i class="fa fa-1x fa-info-circle"></p></i>
+			   		</div>
 			    </div>
 
-			    <div class="price-row">
-			   		<div class="price-desc"><p>Ready for fabrication</p></div> 
-			   		<div class="price"><p>€{{page.rffprice}}</p></div>
+			    <div class="row price-rows">
+			   		<div class="col-md-10 col-xs-6 prices"> 
+			   			<p>Ready for fabrication</p>
+			   		</div> 
+			   		<div class="col-md-2 col-xs-6 prices">
+			   			<p>€{{page.rffprice}}</p>
+			   		</div>
 			   	</div>	
 			   	
-			   	<div class="price-row">
-			   		<div class="pay">
+			   	<div class="row price-rows">
+			   		<div class="col-md-10 col-xs-6 pay">
 			   			<a class="btn-primary btn-pay" href="{{ page.downloadurl }}"> Download the files</a>
 			   		</div>
-			   		<div class="disclaimer" data-toggle="modal" data-target="#fabricationModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
+			   		<div class="col-md-2 col-xs-6" data-toggle="modal" data-target="#fabricationModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
 			   	</div>
 			</div>	
 

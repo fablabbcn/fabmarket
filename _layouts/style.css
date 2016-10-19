@@ -1544,16 +1544,18 @@ h1.product-title {
     margin-bottom: 0em;
 }
 
-.price-ready {
-    margin-top: 30px; 
-    padding: 20px 0px 0px 0px; 
-    border-top: 1px solid #{{ site.color.primary}}; 
-}
 
 .price-top {
     margin-top: 30px; 
     padding: 20px 0px 0px 0px; 
-    border-top: 1px solid #{{ site.color.primary}}; 
+    border-top: 1px solid #{{ site.color.primary}};
+    margin-left: 0px;
+    margin-right: 0px;  
+}
+
+.price-rows{
+    margin-left: 0px;
+    margin-right: 0px;  
 }
 
 .price-row {
@@ -1572,12 +1574,15 @@ h1.product-title {
     font-weight: bold;
 }
 
-.pay {
-    width: 70%; 
-    float: left;
+.prices p{
+    padding: 0px; 
+    margin: 0px;
+    font-weight: bold;
 }
 
 .pay p {
+    padding: 0px; 
+    margin: 0px;
     font-size:14px;
 }
 
