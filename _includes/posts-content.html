@@ -2,60 +2,56 @@
 <section id="products"> 
 	<div class="container">
 
-
 		 <div class="row product-header"> 
-		 	<div class="col-md-4">
+		 	<div class="col-md-4 col-xs-12">
 			   	<h1 class="product-title">{{page.title}}</h1>
 			</div>	
-			<div class="col-md-8 text-center line product-line">
+			<div class="col-md-8 col-xs-12 text-center line product-line">
 			</div>	
 		</div>
 
 		<div class="row"> 
-		 	<div class="col-md-4 product-information">
-
+		 	<div class="col-md-4 col-xs-12 product-information">
 			   	<p class="product-description">{{content}}</p>
 			    <p class="product-description"><b>Designer: </b> {{ page.designer}}</p>
 			    
-			    <div class="price-module">
-			   		<div class="price-desc"><p style="padding: 0px; margin: 0px;"><b>Ready for use</b></p></div> 
-			   		<div class="price"><p style="padding: 0px; margin: 0px;"><b>€{{page.rfuprice}}</b></p></div>
+			    <div class="price-top">
+			   		<div class="price-desc"><p>Ready for use</p></div> 
+			   		<div class="price"><p>€{{page.rfuprice}}</p></div>
 			   	</div>	
 
-
-			   	 <div style="padding: 20px 0px 0px 0px;">
-			   		<div class="pay"><p class="text-muted" style="font-size:14px;">Online purchase coming soon!</p></div>
+			   	<div class="price-row">
+			   		<div class="pay"><p class="text-muted">Online purchase coming soon!</p></div>
 			   		<div class="disclaimer" data-toggle="modal" data-target="#useModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
 			    </div>
 
-			    <div style="padding-top: 20px;">
-			   		<div class="price-desc"> <p style="padding: 0px; margin: 0px;"><b>Ready for assembly</b></p></div> 
-			   		<div class="price"><p style="padding: 0px; margin: 0px;"><b>€{{page.rfaprice}}</b></p></div>
+			    <div sclass="price-row">
+			   		<div class="price-desc"> <p>Ready for assembly</p></div> 
+			   		<div class="price"><p>€{{page.rfaprice}}</p></div>
 			   	</div>	
 			   		
-			   	<div style="padding-top: 20px;">
-			   		<div class="pay"><p class="text-muted" style="font-size:14px;">Online purchase coming soon!</p></div>
+			   	<div class="price-row">
+			   		<div class="pay"><p class="text-muted">Online purchase coming soon!</p></div>
 			   		<div class="disclaimer" data-toggle="modal" data-target="#assemblyModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
 			    </div>
 
-			    <div style="padding-top: 20px;">
-			   		<div class="price-desc"> <p style="padding: 0px; margin: 0px;"><b>Ready for fabrication</b></p></div> 
-			   		<div class="disclaimer"><p style="padding: 0px; margin: 0px;"><b>€{{page.rffprice}}</b></p></div>
+			    <div class="price-row">
+			   		<div class="price-desc"><p>Ready for fabrication</p></div> 
+			   		<div class="price"><p>€{{page.rffprice}}</p></div>
 			   	</div>	
 			   	
-			   	<div style="padding-top: 20px;">
+			   	<div class="price-row">
 			   		<a href="{{ page.downloadurl }}">
-			   		<div class="pay"><p class="text-muted" style="font-size:14px;">Download the files</p></div>
+			   		<div class="pay"><p class="text-muted">Download the files</p></div>
 			   		</a>
 			   		<div class="disclaimer" data-toggle="modal" data-target="#fabricationModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
 			   	</div>
 			</div>	
 
-			<div class="col-md-8">
+			<div class="col-md-8 col-xs-12">
 			   {% include photo-gallery.html %}
 			</div>	
 		</div>
-
 
 		<!--
 		<div class="row" style="padding-bottom:40px; padding-top: 120px;">
@@ -70,64 +66,7 @@
 			<img class = "assembly" src="{{page.assembly}}">
 		</div> -->
 		
-
 	</div>	
 </section>
 
-
-<!-- Modals -->
-<div id="useModal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <!-- Modal content-->
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Ready for Use</h4>
-      </div>
-      <div class="modal-body">
-        <p>Once the order has been placed the product will be delivered within 10 days. </p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<div id="assemblyModal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <!-- Modal content-->
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Ready for assembly</h4>
-      </div>
-      <div class="modal-body">
-        <p>Pre-fabricated parts are packaged and delivered with step by step assembly instructions. Once the order has been placed the parts will be delivered within 10 days.</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<div id="fabricationModal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <!-- Modal content-->
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Ready for fabrication</h4>
-      </div>
-      <div class="modal-body">
-        <p>Open source files ready for fabrication in a local FabLab or a private lab. Once the order has been placed the download will be available.</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
+{% include price-modals.html %}
