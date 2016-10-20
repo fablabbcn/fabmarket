@@ -636,6 +636,11 @@ h4.section-small-highlight{
     }
 } 
 
+.manifesto-svg {
+    padding-bottom: 10px;
+    height: 200px;
+}
+
 /*---CONTENT MOSAIC SECTION--*/ 
 
 section#content-mosaic {
