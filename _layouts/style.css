@@ -80,7 +80,7 @@ section{
     padding: 20px 20px 0px 0px;
 }
 
-@media(min-width:767px) {
+@media(min-width:992px) {
     .button {
         padding: 20px 20px 0px 20px;
     }
@@ -127,7 +127,7 @@ p.quote {
 }
 
 
-@media(min-width:767px) {
+@media(min-width:992px) {
     p.quote {
         font-size: 30px;
         padding-left:25px; 
@@ -229,10 +229,11 @@ black border and white background*/
 
 /*-Option for tags and smaller sized buttons*/
 
-.tag {
-    font-size: 12px;
+.btn-pay {
+    font-size: 10px;
     padding: 5px 20px;    
     margin: 0px;
+    border-radius: 6px; 
 }
 
 /* Right align button option */
@@ -500,14 +501,13 @@ fieldset[disabled] .btn-xl.active {
     }
 
 @media(min-width:768px) {
-
     .header-logo {
         height:40px;
     }
 }
 
 .logo-mobile {
-        height:25px;
+        height:29px;
         margin-top: 12px;
         padding-left: 15px;
     }
@@ -610,7 +610,7 @@ h4.section-small-highlight{
     border-left: 0px;
 }
 
-@media(min-width:767px) {
+@media(min-width:992px) {
     .left-line{
         border-left: 1px solid #{{ site.color.primary}} ;
     } 
@@ -620,7 +620,7 @@ h4.section-small-highlight{
     border-right: 0px;
 }
 
-@media(min-width:767px) {
+@media(min-width:992px) {
     .right-line {
         border-right: 1px solid #{{ site.color.primary}} ;
     } 
@@ -635,6 +635,11 @@ h4.section-small-highlight{
         padding-top: 250px;
     }
 } 
+
+.manifesto-svg {
+    padding-bottom: 10px;
+    height: 200px;
+}
 
 /*---CONTENT MOSAIC SECTION--*/ 
 
@@ -682,7 +687,6 @@ section#content-mosaic {
 
 .row a{
     text-decoration: none;
-    color: #000000;
     }
 
 .tweet a {
@@ -1545,48 +1549,31 @@ h1.product-title {
     margin-bottom: 0em;
 }
 
-.price-ready {
-    margin-top: 30px; 
-    padding: 20px 0px 0px 0px; 
-    border-top: 1px solid #{{ site.color.primary}}; 
-}
 
 .price-top {
     margin-top: 30px; 
     padding: 20px 0px 0px 0px; 
-    border-top: 1px solid #{{ site.color.primary}}; 
+    border-top: 1px solid #{{ site.color.primary}};
+    margin-left: 0px;
+    margin-right: 0px;  
 }
 
-.price-row {
-    padding-top: 20px;
+.price-rows{
+    margin-left: 0px;
+    margin-right: 0px;  
 }
 
-.price-desc {
-    width: 70%; 
-    float: left;
-}
 
-.price-desc p, .price p {
+.prices p{
     padding: 0px; 
     margin: 0px;
     font-weight: bold;
 }
 
-.pay {
-    width: 70%; 
-    float: left;
-}
-
 .pay p {
+    padding: 0px; 
+    margin: 0px;
     font-size:14px;
 }
 
-.price {
-    width: 30%; 
-    float: left;
-}
 
-.disclaimer {
-    width: 30%; 
-    float: left;
-}

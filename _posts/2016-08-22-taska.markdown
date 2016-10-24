@@ -13,6 +13,7 @@ rfuprice: 0
 rfaprice: 0
 rffprice: 0
 assembly: /img/products/taska/taska-assembly.png 
+hasdownloadfiles: true
 downloadurl: /img/products/taska/TASKA-Fabrication-files-assembly-instruction.zip
 ---
 
