@@ -3,8 +3,9 @@ title: BENT LIGHT
 designer: Ingi Guðjonsson
 layout: posts
 date: 2014-07-18
-headphoto: /img/products/bent-light/bent-light-head
+headphoto: /img/products/bent-light/bent-light-head.jpg
 permalink: /bent-light
+hasimages: false
 images:  
   - image_path: 
   - image_path: 

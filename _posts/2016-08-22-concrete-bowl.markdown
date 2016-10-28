@@ -3,11 +3,12 @@ title: CONCRETE BOWL
 designer: Matteo Guarnaccia
 layout: posts
 date: 2014-07-18
-headphoto: /img/products/concrete-bowl/concrete-bowl-head
+headphoto: /img/products/concrete-bowl/concrete-bowl-head-thumb.png
 permalink: /concrete-bowl
+hasimages: false
 images:  
-  - image_path: /img/products/concrete-bowl/concrete-bowl-0
-  - image_path: /img/products/concrete-bowl/concrete-bowl-1
+  - image_path: 
+  - image_path: 
 rfuprice: 0
 rfaprice: 0
 rffprice: 0

@@ -1,22 +1,26 @@
 <!-- Photo Gallery -->
 
 <div class "row">
-	<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ page.headphoto }}.jpg" data-href="{{ page.headphoto }}.jpg" data-target="#image-gallery">
-		<div class="col-md-12" style="height: 400px;  background-image: url({{ page.headphoto }}-thumb.png); background-position: center center; background-attachment: scroll; background-size: cover;">
+	<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ page.headphoto }}" data-href="{{ page.headphoto }}.jpg" data-target="#image-gallery">
+		<div class="col-md-12 col-xs-12">
+			<img src ="{{ page.headphoto }}" style="width:100%;"> 
 		</div>
 	</a>
 </div>
 
-<div class "row">
-	{% for image in page.images %}
-		<div>
-			<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ image.image_path }}.jpg" data-href="{{ image.image_path }}.jpg" data-target="#image-gallery">
-				<div class="col-md-6 col-xs-12" style="height: 400px;  background-image: url({{ image.image_path }}-thumb.png); background-position: center center; background-attachment: scroll; background-size: cover;">
-				</div>
-			</a>
-		</div>
-	{% endfor %}
-</div>
+{% if page.hasimages == true %}
+	<div class "row">
+		{% for image in page.images %}
+			<div>
+				<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ image.image_path }}.jpg" data-href="{{ image.image_path }}.jpg" data-target="#image-gallery">
+					<div class="col-md-12 col-xs-12">
+						<img src="{{ image.image_path }}-thumb.png" style="width:100%;"> 
+					</div>
+				</a>
+			</div>
+		{% endfor %}
+	</div>
+{% endif %}
 
 
 <!--Modals --> 

@@ -3,8 +3,9 @@ title: TASKA
 designer: Ingi Guðjonsson
 layout: posts
 date: 2014-07-18
-headphoto: /img/products/taska/taska-detail-2
+headphoto: /img/products/taska/taska-detail-2-thumb.png
 permalink: /taska
+hasimages: true
 images:  
   - image_path: /img/products/taska/taska-detail-0
   - image_path: /img/products/taska/taska-detail-1
