@@ -3,6 +3,7 @@ title: SOUND HANGER
 designer: Ingi Guðjonsson
 layout: posts
 date: 2014-07-18
+homephoto: /img/mosaic/sound-hanger_thumb.png
 headphoto: /img/products/sound-hanger/sound-hanger-head-thumb.png
 permalink: /sound-hanger
 hasimages: true

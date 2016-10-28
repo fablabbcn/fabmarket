@@ -3,6 +3,7 @@ title: RACK
 designer: Ingi Guðjonsson
 layout: posts
 date: 2014-07-18
+homephoto: /img/mosaic/rack_thumb.png
 headphoto: /img/products/rack/rack-head-thumb.png
 permalink: /rack
 hasimages: true

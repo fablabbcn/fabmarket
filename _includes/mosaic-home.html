@@ -12,135 +12,17 @@
             </div>
         </div> 
 
-        <div class="row text-center"> 
-            <a class="subtitle" href="/twistab">
+        {% for post in site.posts %}
+            <a class="subtitle" href="{{ post.permalink }}">
             <div class="col-md-4">
-                <div class="mosaic"  style="background-image: url(../img/mosaic/twistab_thumb.png); background-position: center center; background-attachment: scroll; background-size: cover;">   
+                <div class="mosaic"  style="background-image: url(..{{ post.homephoto }}); background-position: center center; background-attachment: scroll; background-size: cover;">   
                     <div class="mosaic-subtitle">
-                        TWISTAB
+                        {{ post.title}}
                     </div>  
                 </div>        
             </div>
-            </a>
+            </a>  
+        {% endfor %}  
 
-            <a class="subtitle" href="/rack">
-            <div class="col-md-4">
-                <div class="mosaic"  style="background-image: url(../img/mosaic/rack_thumb.png); background-position: center center; background-attachment: scroll; background-size: cover;">   
-                    <div class="mosaic-subtitle">
-                        RACK
-                    </div>  
-                </div>        
-            </div>
-            </a>
-
-            <a class="subtitle" href="/taska">
-            <div class="col-md-4">
-                <div class="mosaic"  style="background-image: url(../img/mosaic/taska_thumb.png); background-position: center center; background-attachment: scroll; background-size: cover;">   
-                    <div class="mosaic-subtitle">
-                        TASKA
-                    </div>  
-                </div>        
-            </div>
-            </a>
-        </div>
-
-        <div class="row text-center">
-            <a class="subtitle" href="/origami-hat">
-            <div class="col-md-4">
-                <div class="mosaic"  style="background-image: url(../img/mosaic/origami-hat_thumb.png); background-position: center center; background-attachment: scroll; background-size: cover;">   
-                    <div class="mosaic-subtitle">
-                        ORIGAMI HAT
-                    </div>  
-                </div>        
-            </div>
-            </a>
-       
-            <a class="subtitle" href="/bent-light">
-            <div class="col-md-4">
-                <div class="mosaic"  style="background-image: url(../img/mosaic/bent-light_thumb.png); background-position: center center; background-attachment: scroll; background-size: cover;">   
-                    <div class="mosaic-subtitle">
-                        BENT LIGHT
-                    </div>  
-                </div>        
-            </div>
-            </a>
-
-            <a class="subtitle" href="/slim-chair">
-            <div class="col-md-4">
-                <div class="mosaic"  style="background-image: url(../img/mosaic/slim-chair_thumb.png); background-position: center center; background-attachment: scroll; background-size: cover;">   
-                   <div class="mosaic-subtitle">
-                        SLIM CHAIR
-                    </div>  
-                </div>        
-            </div>
-            </a>
-        </div>
-
-
-        <div class="row text-center">
-            <a class="subtitle" href="/bici-wrap">
-            <div class="col-md-4">
-                <div class="mosaic"  style="background-image: url(../img/mosaic/biciwrap_thumb.png); background-position: center center; background-attachment: scroll; background-size: cover;">   
-                    <div class="mosaic-subtitle">
-                        BICIWRAP
-                    </div>  
-                </div>        
-            </div>
-            </a>
-
-            <a class="subtitle" href="/vinyl-stone">
-            <div class="col-md-4">
-                <div class="mosaic"  style="background-image: url(../img/mosaic/vinyl-stone_thumb.png); background-position: center center; background-attachment: scroll; background-size: cover;">   
-                    <div class="mosaic-subtitle">
-                        VINYL STONE
-                    </div>  
-                </div>        
-            </div>
-            </a>
-
-            <a class="subtitle" href="/tilt-lamp">
-            <div class="col-md-4">
-                <div class="mosaic"  style="background-image: url(../img/mosaic/tilt-lamp_thumb.png); background-position: center center; background-attachment: scroll; background-size: cover;">   
-                    <div class="mosaic-subtitle">
-                        TILT LAMP
-                    </div>  
-                </div>        
-            </div>
-            </a>
-        </div>
-
-
-        <div class="row text-center">
-            <a class="subtitle" href="/sound-hanger">
-            <div class="col-md-4">
-                <div class="mosaic"  style="background-image: url(../img/mosaic/sound-hanger_thumb.png); background-position: center center; background-attachment: scroll; background-size: cover;">   
-                    <div class="mosaic-subtitle">
-                        SOUND HANGER
-                    </div>  
-                </div>        
-            </div>
-            </a>
-           
-            <a class="subtitle" href="/bouncy-box">
-            <div class="col-md-4">
-                <div class="mosaic"  style="background-image: url(../img/mosaic/bouncey-box_thumb.png); background-position: center center; background-attachment: scroll; background-size: cover;">   
-                    <div class="mosaic-subtitle">
-                        BOUNCY BOX
-                    </div>  
-                </div>        
-            </div>
-            </a>
-
-            <a class="subtitle" href="/concrete-bowl">
-            <div class="col-md-4">
-                <div class="mosaic"  style="background-image: url(../img/mosaic/concrete-bowl_thumb.png); background-position: center center; background-attachment: scroll; background-size: cover;">   
-                    <div class="mosaic-subtitle">
-                        CONCRETE BOWL
-                    </div>  
-                </div>        
-            </div>
-            </a>
-        </div>
-
-    </div> <!--close container-->
+    </div> 
 </section>

@@ -3,6 +3,7 @@ title: ORIGAMI HAT
 designer: Anastasia Pistofidou
 layout: posts
 date: 2014-07-18
+homephoto: /img/mosaic/origami-hat_thumb.png
 headphoto: /img/products/origami-hat/origami-hat-head.jpg
 permalink: /origami-hat
 hasimages: false

@@ -3,6 +3,7 @@ title: SLIM CHAIR
 designer: Jose Pacheco
 layout: posts
 date: 2014-07-18
+homephoto: /img/mosaic/slim-chair_thumb.png
 headphoto: /img/products/slim-chair/slim-chair-head.jpg
 permalink: /slim-chair
 hasimages: false

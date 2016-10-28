@@ -3,6 +3,7 @@ title: VINYL STONE
 designer: Ingi Guðjonsson
 layout: posts
 date: 2014-07-18
+homephoto: /img/mosaic/vinyl-stone_thumb.png
 headphoto: /img/products/vinyl-stone/vinyl-stone-head.jpg
 permalink: /vinyl-stone
 hasimages: false

@@ -3,6 +3,7 @@ title: TILT LAMP
 designer: Ingi Guðjonsson
 layout: posts
 date: 2014-07-18
+homephoto: /img/mosaic/tilt-lamp_thumb.png
 headphoto: /img/products/tilt-lamp/tilt-lamp-head.jpg
 permalink: /tilt-lamp
 hasimages: false

@@ -3,6 +3,7 @@ title: TWISTAB
 designer: Isaac Pierre Racine
 layout: posts
 date: 2014-07-18
+homephoto: /img/mosaic/twistab_thumb.png
 headphoto: /img/products/twistab/46cm-UNI-white.jpg
 permalink: /twistab
 hasimages: true

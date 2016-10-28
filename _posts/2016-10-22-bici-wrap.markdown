@@ -3,6 +3,7 @@ title: BICI WRAP
 designer: Matteo Guarnaccia
 layout: posts
 date: 2014-07-18
+homephoto: /img/mosaic/biciwrap_thumb.png
 headphoto: /img/products/bici-wrap/bici-wrap-head.jpg
 permalink: /bici-wrap
 hasimages: false

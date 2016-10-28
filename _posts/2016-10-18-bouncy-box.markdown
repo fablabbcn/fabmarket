@@ -3,6 +3,7 @@ title: BOUNCY BOX
 designer:  Angel Munos and Joan Marín
 layout: posts
 date: 2014-07-18
+homephoto: /img/mosaic/bouncey-box_thumb.png
 headphoto: /img/products/bouncy-box/bouncy-box-head-thumb.png
 permalink: /bouncy-box
 hasimages: false
