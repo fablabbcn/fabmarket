@@ -1511,7 +1511,7 @@ body {
 
 h1.product-title {
     font-size: 66px; 
-    letter-spacing:1.2px; 
+    letter-spacing:0.5px; 
 }
 
 @media (min-width: 768px) {
