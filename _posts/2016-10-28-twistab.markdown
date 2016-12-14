@@ -1,6 +1,8 @@
 ---
 title: TWISTAB
 designer: Isaac Pierre Racine
+material: 
+technique: 
 layout: posts
 date: 2014-07-18
 homephoto: /img/mosaic/twistab_thumb.png
@@ -9,12 +11,12 @@ permalink: /twistab
 hasimages: true
 images:  
   - image_path: /img/products/twistab/46cm-UNI-grey
-rfuprice: 0
-rfaprice: 0
-rffprice: 0
+rfuprice: 125
+rfaprice: 125
+rffprice: 5
 assembly: 
 hasdownloadfiles: false
-downloadurl:
+downloadurl: /zipfiles/twistab/FIles_and_instuctions_Twistab_by_Isaac_Pierre_Racine.zip
 ---
 
 Flatpack design for customized stools and tables. Embedding design with functionality and personal values. Studying lines, balance and comfort for a perfect synergy between forms, textures and colors. Assembly has never been easier. The seat twists and locks onto the slotted legs.

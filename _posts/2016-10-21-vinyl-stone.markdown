@@ -1,6 +1,8 @@
 ---
 title: VINYL STONE
 designer: Ingi Guðjonsson
+material: Micro concrete
+technique: Molding and casting
 layout: posts
 date: 2014-07-18
 homephoto: /img/mosaic/vinyl-stone_thumb.png
@@ -10,14 +12,16 @@ hasimages: false
 images:  
   - image_path: 
   - image_path: 
-rfuprice: 0
-rfaprice: 0
-rffprice: 0
+rfuprice: 50
+rfaprice: 40
+rffprice: 5
 assembly: 
 hasdownloadfiles: false
-downloadurl:
+downloadurl: /zipfiles/vinyl-stone/Files_and\ _instructions_\ Vinyl_stone_by_Ingi_Gudjonsson.zip
 ---
 
 Coming soon!
 
-Vinyl stand for up to 30 records made with a small concrete casting using only 1 liter of concrete. The design is CNC milled in foam.
+Stand for up to 30 vinyl records. 
+
+
