@@ -1301,6 +1301,10 @@ body {
     line-height: 0;
  }
 
+.photo {
+    margin-bottom:20px;
+ }
+
 
 
 /* MODAL PHOTO GALLERY IN POSTS */
