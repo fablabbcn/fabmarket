@@ -12,9 +12,9 @@
 	<div class= "row">
 		{% for image in page.images %}
 			<div>
-				<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ image.image_path }}.jpg" data-href="{{ image.image_path }}.jpg" data-target="#image-gallery">
+				<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ image.image_path }}" data-href="{{ image.image_path }}" data-target="#image-gallery">
 					<div class="col-md-12 col-xs-12 photo">
-						<img src="{{ image.image_path }}.jpg" style="width:100%;"> 
+						<img src="{{ image.image_path }}" style="width:100%;"> 
 					</div>
 				</a>
 			</div>

@@ -1,23 +1,24 @@
 ---
 title: RACK
 designer: Ingi Guðjonsson
+material: Steel and wood
+technique: Bending and welding
 layout: posts
 date: 2014-07-18
-homephoto: /img/mosaic/rack_thumb.png
-headphoto: /img/products/rack/rack-head-thumb.png
+homephoto: /img/products/rack/1.jpg
+headphoto: /img/products/rack/2.jpg
 permalink: /rack
 hasimages: true
 images:  
-  - image_path: /img/products/rack/rack-detail-0
-  - image_path: /img/products/rack/rack-detail-1
+  - image_path: /img/products/rack/3.jpg
+  - image_path: /img/products/rack/4.jpg
+  - image_path: /img/products/rack/5.jpg
 rfuprice: 400
-rfaprice: 150
+rfaprice: 200
 rffprice: 5
 assembly: /img/products/rack/rack-assembly.png 
 hasdownloadfiles: false
-downloadurl:
+downloadurl: /zipfiles/rack/Files_and_Instructions_Rack_by_Ingi_Gudjonsson.zip
 ---
 
-Coming soon! 
-
-Steel rods and a wooden bar take the form of a vertical bike rack. 7 bikes or boards are stored in a 2.4 meter wall space. The design is simple and can easily be changed for your needs. 
+Steel rods and a wooden bar take the form of a vertical bike rack. 7 bikes or boards are stored in a 2.4 meter wall space. The design is simple and can easily be changed for your needs.

@@ -10,15 +10,15 @@ headphoto: /img/products/vinyl-stone/2.jpg
 permalink: /vinyl-stone
 hasimages: true
 images:  
-  - image_path: /img/products/vinyl-stone/3
-  - image_path: /img/products/vinyl-stone/4
-  - image_path: /img/products/vinyl-stone/5
+  - image_path: /img/products/vinyl-stone/3.jpg
+  - image_path: /img/products/vinyl-stone/4.jpg
+  - image_path: /img/products/vinyl-stone/5.jpg
 rfuprice: 50
 rfaprice: 40
 rffprice: 5
 assembly: 
 hasdownloadfiles: false
-downloadurl: /zipfiles/vinyl-stone/Files_and _instructions_ Vinyl_stone_by_Ingi_Gudjonsson.zip
+downloadurl: /zipfiles/vinyl-stone/Files_and _instructions_Vinyl_stone_by_Ingi_Gudjonsson.zip
 ---
 
 Coming soon!

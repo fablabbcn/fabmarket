@@ -18,6 +18,5 @@ hasdownloadfiles: false
 downloadurl:
 ---
 
-Coming soon!
 
 The proportion of the bowl forms the size of an orange, to fit 3 of them. Using the multiple possibilities of the technology of CNC is it possible to customize the texture of the cement bowl, inside and outside. The client has the possibility to choose the size in order to have exactly what its needed. The microcement is an awesome material to register the texture given in the mould. However is still an open process, in need of research.

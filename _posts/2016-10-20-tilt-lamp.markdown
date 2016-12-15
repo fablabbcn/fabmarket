@@ -18,6 +18,4 @@ hasdownloadfiles: false
 downloadurl:
 ---
 
-Coming soon!
-
 A light without a cable or a switch. Using tilt sensor and rechargable batteries, the LED light can be switched on and off by rotating the geometric shapes around. The lamp can be 3D printed in any shape, size or filament still the mecanism remains the same. The original copy is a polyhedra printed in white PLA filament.

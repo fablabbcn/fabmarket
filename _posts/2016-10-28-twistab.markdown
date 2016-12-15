@@ -10,9 +10,9 @@ headphoto: /img/products/twistab/46cm-UNI-white.jpg
 permalink: /twistab
 hasimages: true
 images:  
-  - image_path: /img/products/twistab/46cm-UNI-grey
-rfuprice: 125
-rfaprice: 125
+  - image_path: /img/products/twistab/46cm-UNI-grey.jpg
+rfuprice: 145
+rfaprice: 145
 rffprice: 5
 assembly: 
 hasdownloadfiles: false
