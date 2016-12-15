@@ -28,16 +28,33 @@
 
 			   	<div class="row price-rows">
 			   		<div class="col-md-10 col-xs-6 pay">
-			   			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" data-ajax="no" target="_top"|form action="https://www.paypal.com/cgi-bin/webscr" method="post" data-ajax="no" target="_top">
-					        <input type="hidden" name="cmd" value="_s-xclick">
-					        <input type="hidden" name="hosted_button_id" value="ZKWC47Y7FPPLE">
-					        <input type="hidden" name="os0" value="Sensor Kit (with Ambient Sensor Board)">
-					        <input type="hidden" name="currency_code" value="EUR">
-					        <button type="submit" name="submit"
-					        class="classe que quieras" analytics-on="store">
-					          Pay with PayPal
-					        </button>
-					        <img alt="" style="position:absolute" border="0" src="https://www.paypalobjects.com/es_ES/i/scr/pixel.gif" width="1" height="1">
+
+						<!--
+
+							HOW TO USE PAYPAL BUTTONS
+
+							1. Each button needs to be created following the instructions here.
+
+							https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/buy_now_step_1/#open-the-paypal-button-creation-page
+
+							2. Once you have a button created you can duplicate them on the Paypal interface but you need
+							   to add for each the product name and copy the button id from the button code.
+
+							3. Remember also for each product you can define the tax rate and the shipping cost on the interface.
+
+							4. To get the button code you need to look at the generated code by paypal and copy the code inside:
+
+								<input type="hidden" name="hosted_button_id" value="THIS IS THE CODE">
+
+							5. Then add the code on to the product page in the FabMarket Jekyll page.
+
+						-->
+
+						<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="8AHHWU68GR93Q">
+							<button type="submit" name="submit" class="classe que quieras" > Pay with PayPal </button>
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 						</form>
 
 			   			<!--<p class="text-muted">Online purchase coming soon!</p>-->
