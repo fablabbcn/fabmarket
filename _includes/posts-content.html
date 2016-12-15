@@ -2,7 +2,7 @@
 <section id="products"> 
 	<div class="container">
 
-		 <div class="row product-header"> 
+		<div class="row product-header"> 
 		 	<div class="col-md-4 col-xs-12">
 			   	<h1 class="product-title">{{page.title}}</h1>
 			</div>	
@@ -29,35 +29,28 @@
 			   	<div class="row price-rows">
 			   		<div class="col-md-10 col-xs-6 pay">
 
-						<!--
+						{% if page.rfuprice != 'n/a' %}
 
-							HOW TO USE PAYPAL BUTTONS
+							<form method="post" action="https://www.paypal.com/cgi-bin/webscr" class="" target="_top">
+							    <div class="hide" id="errorBox"></div>
+							    <input type="hidden" name="button" value="buynow">
+							    <input type="hidden" name="item_name" value="Ready for fabrication {{page.title}}">
+							    <input type="hidden" name="quantity" value="1">
+							    <input type="hidden" name="amount" value="{{page.rfuprice}}">
+							    <input type="hidden" name="currency_code" value="EUR">
+							    <input type="hidden" name="notify_url" value="{{site.paypal.callback_url}}">
+							    <input type="hidden" name="cmd" value="_xclick">
+							    <input type="hidden" name="business" value="{{site.paypal.merchant_id}}">
+							    <input type="hidden" name="bn" value="JavaScriptButton_buynow"><input type="hidden" name="env" value="www">
+							    <button type="submit" class="btn btn-primary white">Buy Now</button>
+							 </form>
 
-							1. Each button needs to be created following the instructions here.
+						{% else %}
 
-							https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/buy_now_step_1/#open-the-paypal-button-creation-page
+			   				<p class="text-muted">Online purchase coming soon!</p>
 
-							2. Once you have a button created you can duplicate them on the Paypal interface but you need
-							   to add for each the product name and copy the button id from the button code.
+						{% endif %}
 
-							3. Remember also for each product you can define the tax rate and the shipping cost on the interface.
-
-							4. To get the button code you need to look at the generated code by paypal and copy the code inside:
-
-								<input type="hidden" name="hosted_button_id" value="THIS IS THE CODE">
-
-							5. Then add the code on to the product page in the FabMarket Jekyll page.
-
-						-->
-
-						<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="8AHHWU68GR93Q">
-							<button type="submit" name="submit" class="classe que quieras" > Pay with PayPal </button>
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-						</form>
-
-			   			<!--<p class="text-muted">Online purchase coming soon!</p>-->
 			   		</div>	
 			   		<div class="col-md-2 col-xs-6" data-toggle="modal" data-target="#useModal">
 			   			<p><i class="fa fa-1x fa-info-circle"></p></i>
@@ -75,8 +68,30 @@
 			   		
 			   	<div class="row price-rows">
 			   		<div class="col-md-10 col-xs-6 pay">
-			   			<p class="text-muted">Online purchase coming soon!</p>
-			   		</div>
+
+						{% if page.rfaprice != 'n/a' %}
+
+							<form method="post" action="https://www.paypal.com/cgi-bin/webscr" class="" target="_top">
+							    <div class="hide" id="errorBox"></div>
+							    <input type="hidden" name="button" value="buynow">
+							    <input type="hidden" name="item_name" value="Ready for fabrication {{page.title}}">
+							    <input type="hidden" name="quantity" value="1">
+							    <input type="hidden" name="amount" value="{{page.rfaprice}}">
+							    <input type="hidden" name="currency_code" value="EUR">
+							    <input type="hidden" name="notify_url" value="{{site.paypal.callback_url}}">
+							    <input type="hidden" name="cmd" value="_xclick">
+							    <input type="hidden" name="business" value="{{site.paypal.merchant_id}}">
+							    <input type="hidden" name="bn" value="JavaScriptButton_buynow"><input type="hidden" name="env" value="www">
+							    <button type="submit" class="btn btn-primary white">Buy Now</button>
+							</form>
+
+						{% else %}
+
+			   				<p class="text-muted">Online purchase coming soon!</p>
+
+						{% endif %}
+
+			   		</div>	
 			   		<div class="col-md-2 col-xs-6" data-toggle="modal" data-target="#assemblyModal">
 			   			<p><i class="fa fa-1x fa-info-circle"></p></i>
 			   		</div>
@@ -90,20 +105,38 @@
 			   			<p>€{{page.rffprice}}</p>
 			   		</div>
 			   	</div>	
-			   	
-			   	<div class="row price-rows">
-			   		{% if page.hasdownloadfiles == true %}
-				   		<div class="col-md-10 col-xs-6 pay">
-				   			<a class="btn-primary btn-pay" href="{{ page.downloadurl }}"> Download the files</a>
-				   		</div>
-				   	{% else %}
-					   	<div class="col-md-10 col-xs-6 pay">
-				   			<p class="text-muted">Online purchase coming soon!</p>
-				   		</div>
-			   		{% endif %}
+			   		
 
-			   		<div class="col-md-2 col-xs-6" data-toggle="modal" data-target="#fabricationModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
-			   	</div>
+			    <div class="row price-rows">
+			   		<div class="col-md-10 col-xs-6 pay">
+
+						{% if page.rffprice != 'n/a' %}
+
+							<form method="post" action="https://www.paypal.com/cgi-bin/webscr" class="" target="_top">
+							    <div class="hide" id="errorBox"></div>
+							    <input type="hidden" name="button" value="buynow">
+							    <input type="hidden" name="item_name" value="Ready for fabrication {{page.title}}">
+							    <input type="hidden" name="quantity" value="1">
+							    <input type="hidden" name="amount" value="{{page.rffprice}}">
+							    <input type="hidden" name="currency_code" value="EUR">
+							    <input type="hidden" name="notify_url" value="{{site.paypal.callback_url}}">
+							    <input type="hidden" name="cmd" value="_xclick">
+							    <input type="hidden" name="business" value="{{site.paypal.merchant_id}}">
+							    <input type="hidden" name="bn" value="JavaScriptButton_buynow"><input type="hidden" name="env" value="www">
+							    <button type="submit" class="btn btn-primary white">Buy Now</button>
+							</form>
+
+						{% else %}
+
+			   				<p class="text-muted">Online purchase coming soon!</p>
+
+						{% endif %}
+	
+			   		</div>	
+					<div class="col-md-2 col-xs-6" data-toggle="modal" data-target="#fabricationModal"><p><i class="fa fa-1x fa-info-circle"></p></i></div>
+
+			   	</div>	
+			   	
 			</div>	
 
 			<div class="col-md-8 col-xs-12">
@@ -114,19 +147,6 @@
 		<div class= "row">
 			{% include mosaic-pages.html %}
 		</div>
-
-		<!--
-		<div class="row" style="padding-bottom:40px; padding-top: 120px;">
-	        <div class="col-md-4">
-	            <h1 style="margin-top:0px;">Assembly instructions</h1>
-	        </div>
-        	<div class="col-md-2 text-center" style="background-color: #{{ site.color.primary}}; height:10px; margin:16px 0px;">
-        	</div>
-    	</div> 
-
-		<div class = "row" style= "padding-top: 40px;"> 
-			<img class = "assembly" src="{{page.assembly}}">
-		</div> -->
 		
 	</div>	
 </section>
