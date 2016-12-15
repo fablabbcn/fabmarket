@@ -16,7 +16,7 @@ images:
   - image_path: /img/products/taska/6.jpg  
   - image_path: /img/products/taska/7.jpg    
 rfuprice: 85
-rfaprice: 50
+rfaprice: 55
 rffprice: 5
 assembly: /img/products/taska/taska-assembly.png 
 hasdownloadfiles: true

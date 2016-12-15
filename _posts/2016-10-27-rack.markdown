@@ -14,7 +14,7 @@ images:
   - image_path: /img/products/rack/4.jpg
   - image_path: /img/products/rack/5.jpg
 rfuprice: 400
-rfaprice: 200
+rfaprice: 250
 rffprice: 5
 assembly: /img/products/rack/rack-assembly.png 
 hasdownloadfiles: false

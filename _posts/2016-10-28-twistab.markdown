@@ -1,8 +1,8 @@
 ---
 title: TWISTAB
 designer: Isaac Pierre Racine
-material: 
-technique: 
+material: Coated plywood, magnet
+technique: CNC milling
 layout: posts
 date: 2014-07-18
 homephoto: /img/mosaic/twistab_thumb.png
@@ -12,7 +12,7 @@ hasimages: true
 images:  
   - image_path: /img/products/twistab/46cm-UNI-grey.jpg
 rfuprice: 145
-rfaprice: 145
+rfaprice: n/a
 rffprice: 5
 assembly: 
 hasdownloadfiles: false

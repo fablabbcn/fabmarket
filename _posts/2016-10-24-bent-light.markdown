@@ -1,8 +1,8 @@
 ---
 title: BENT LIGHT
 designer: Ingi Guðjonsson
-material: 
-technique: 
+material: Birch plywood
+technique: CNC Milling, vacuum press, 3d printing
 layout: posts
 date: 2014-07-18
 homephoto: /img/products/bent-light/1.jpg
@@ -11,9 +11,9 @@ permalink: /bent-light
 hasimages: false
 images:  
   - image_path: 
-rfuprice: 0
-rfaprice: 0
-rffprice: 0
+rfuprice: 350
+rfaprice: 250
+rffprice: 5
 assembly: 
 hasdownloadfiles: false
 downloadurl:

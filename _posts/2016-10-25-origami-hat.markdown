@@ -1,8 +1,8 @@
 ---
 title: ORIGAMI HAT
 designer: Anastasia Pistofidou
-material: 
-technique: 
+material: 350g paper
+technique: Grasshopper, laser cut, origami
 layout: posts
 date: 2014-07-18
 homephoto: /img/products/origami-hat/2.jpg
@@ -11,9 +11,9 @@ permalink: /origami-hat
 hasimages: true
 images:  
   - image_path: /img/products/origami-hat/3.jpg
-rfuprice: 0
-rfaprice: 0
-rffprice: 0
+rfuprice: 15
+rfaprice: 10
+rffprice: 5
 assembly: 
 hasdownloadfiles: false
 downloadurl: /zipfiles/origami-hat/Files-and-instructions-Origami-hat-by-Anastasia-pistofidou-3dm.zip

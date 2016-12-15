@@ -12,8 +12,8 @@ hasimages: true
 images:  
   - image_path: /img/products/sound-hanger/3.jpg
 rfuprice: 65
-rfaprice: 65
-rffprice: 5
+rfaprice: n/a
+rffprice: 10
 assembly: 
 hasdownloadfiles: false
 downloadurl: /zipfiles/vinyl-stone/Files-and-Instructions-Sound-hanger-by-Ingi-Gudjonsson.zip
