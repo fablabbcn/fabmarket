@@ -1,0 +1,25 @@
+---
+title: SCARPA
+designer: Matteo Guarnaccia
+material: Micro concrete
+technique: CNC milling, molding and casting
+layout: posts
+date: 2014-07-18
+homephoto: /img/products/scarpa/1.jpg
+headphoto: /img/products/scarpa/2.jpg
+permalink: /scarpa
+hasimages: true
+images:  
+  - image_path: /img/products/scarpa/3.jpg
+  - image_path: /img/products/scarpa/4.jpg
+  - image_path: /img/products/scarpa/5.jpg  
+rfuprice: 65 
+rfaprice: n/a
+rffprice: 5
+assembly: 
+hasdownloadfiles: false
+downloadurl:
+---
+
+
+These concrete bowls are casted into digitally fabricated moulds that can variate, giving the possibility to customize textures and sizes. The original sizes come from the average size of an orange, trying to remember the Mediterrian spirit. The bowls are made out of micro cement, which  register very accurately the texture given in the mould. Variating the composure of the mixture, we can obtain slightly different gradient of gray.

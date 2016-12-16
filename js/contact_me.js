@@ -1,5 +1,5 @@
 $(function() {
-
+    /* This is disabled for now because we don't use it yet (also must reconsider how to handle backend from jekyll using a third server to receive the submit call).
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
         submitError: function($form, event, errors) {
@@ -56,7 +56,7 @@ $(function() {
             return $(this).is(":visible");
         },
     });
-
+    */
     $("a[data-toggle=\"tab\"]").click(function(e) {
         e.preventDefault();
         $(this).tab("show");
