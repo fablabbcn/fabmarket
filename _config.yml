@@ -72,8 +72,8 @@ permalink: pretty
 
 # Paypal code
 paypal:
-  merchant_id: Z6GHSVDLKR78A
-  callback_url: http://market.fablabs.io/ 
+  merchant_id: BRJRD6WSME3EC
+  callback_url: http://market.fablabs.io/thank-you/
 
 # Gems
 gems:
