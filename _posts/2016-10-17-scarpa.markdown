@@ -10,9 +10,9 @@ headphoto: /img/products/scarpa/2.jpg
 permalink: /scarpa
 hasimages: true
 images:  
-  - image_path: 3.jpg
-  - image_path: 4.jpg
-  - image_path: 5.jpg  
+  - image_path: /img/products/scarpa/3.jpg
+  - image_path: /img/products/scarpa/4.jpg
+  - image_path: /img/products/scarpa/5.jpg  
 rfuprice: 65 
 rfaprice: n/a
 rffprice: 5
