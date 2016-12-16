@@ -9,9 +9,9 @@ permalink: /bouncey-box
 hasimages: true
 images:  
   - image_path: /img/products/bouncey-box/3.jpg
-rfuprice: 0
-rfaprice: 0
-rffprice: 0
+rfuprice: n/a
+rfaprice: n/a
+rffprice: n/a
 assembly: 
 hasdownloadfiles: false
 downloadurl:

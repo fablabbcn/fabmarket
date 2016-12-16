@@ -12,7 +12,7 @@ hasimages: true
 images:  
   - image_path: /img/products/sound-hanger/3.jpg
 rfuprice: 65
-rfaprice: 0
+rfaprice: n/a
 rffprice: 10
 assembly: 
 hasdownloadfiles: false

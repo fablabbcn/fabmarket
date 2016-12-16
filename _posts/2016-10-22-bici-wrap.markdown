@@ -12,9 +12,9 @@ hasimages: false
 images:  
   - image_path: 
   - image_path: 
-rfuprice: 0
-rfaprice: 0
-rffprice: 0
+rfuprice: n/a
+rfaprice: n/a
+rffprice: n/a
 assembly: 
 downloadurl:
 ---

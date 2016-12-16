@@ -14,7 +14,7 @@ images:
   - image_path: /img/products/vinyl-stone/4.jpg
   - image_path: /img/products/vinyl-stone/5.jpg
 rfuprice: 55
-rfaprice: 0
+rfaprice: n/a
 rffprice: 5
 assembly: 
 hasdownloadfiles: false

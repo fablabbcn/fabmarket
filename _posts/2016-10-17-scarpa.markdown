@@ -14,7 +14,7 @@ images:
   - image_path: /img/products/scarpa/4.jpg
   - image_path: /img/products/scarpa/5.jpg  
 rfuprice: 65 
-rfaprice: 0
+rfaprice: n/a
 rffprice: 5
 assembly: 
 hasdownloadfiles: false
