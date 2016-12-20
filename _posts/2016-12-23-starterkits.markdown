@@ -1,8 +1,8 @@
 ---
-title: TWISTAB
-designer: Hulda
-material: Coated plywood
-technique: CNC milling
+title: cristian
+designer: italia
+material: real meet
+technique: magic
 layout: posts
 date: 2014-12-20
 homephoto: /img/products/starterkit/cristian.jpg
@@ -12,12 +12,12 @@ hasimages: true
 images:  
   - image_path: /img/products/starterkit/cristian.jpg
   - image_path: /img/products/starterkit/miguel.jpg
-rfuprice: 145
-rfaprice: n/a
+rfuprice: 200000
+rfaprice: 100000
 rffprice: 5
 assembly: 
 hasdownloadfiles: false
 downloadurl: /zipfiles/twistab/FIles_and_instuctions_Twistab_by_Isaac_Pierre_Racine.zip
 ---
 
-HELLLLOOOO
+mui corto
