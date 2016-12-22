@@ -5,6 +5,7 @@
 {% include additional_css/bootstrap.min.css %}
 {% include additional_css/font-awesome/font-awesome.min.css %}
 {% include additional_css/full-slider.css %}
+{% include additional_css/cookieconsent.min.css %}
 
 
 /*///////TEMPLATE CSS////////*/
@@ -1409,7 +1410,7 @@ body {
   position: absolute;
   text-align: center;
   color: #FAFAFA;
-  font-weight: 400;
+  font-weight: 200;
   font-size: 14px;
 }
 
@@ -1575,4 +1576,23 @@ h1.product-title {
     font-size:14px;
 }
 
+.cc-message {
+    font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+}
 
+.cc-banner .cc-btn:last-child {
+    min-width: 114px;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+.cc-banner .cc-btn:last-child a {
+    text-decoration: none;
+
+}
+
+
+.cc-message a, a:hover, a:focus {
+    text-decoration: none;
+}
