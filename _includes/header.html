@@ -61,27 +61,6 @@
         </div>
   </div>
 
-<!--
-        {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-        {% endfor %}
- -->
 
-<!--Cookie alert band -->
-<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
-<script>
-window.addEventListener("load", function(){
-window.cookieconsent.initialise({
-  "palette": {
-    "popup": {
-      "background": "#231f20"
-    },
-    "button": {
-      "background": "#231f20"
-    }
-  },
-  "theme": "edgeless"
-})});
-</script>
-
+{% include cookie-message.html %}
 
