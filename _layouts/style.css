@@ -1576,27 +1576,46 @@ h1.product-title {
     font-size:14px;
 }
 
-.cc-message {
+/*Cookie message css overwrites*/
+
+.alert {
+    border-radius: 0px;
+}
+
+.alert-success {
+    z-index: 3000;
+    color: #ffffff;
+    background-color: #{{ site.color.primary}};
+    border-color: #{{ site.color.primary}};
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 12px;
 }
 
-.cc-banner .cc-btn:last-child {
-    min-width: 114px;
-    text-transform: uppercase;
-    font-size: 10px;
-}
 
-.cc-banner .cc-btn:last-child a {
+.alert-success a, a:hover, a:focus {
     text-decoration: none;
+    color: #ffffff;
+    font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    cursor: pointer;
+}
 
+.alert-success a:hover, 
+.alert-success a:focus {
+    text-decoration: underline;
 }
 
 
-.cc-message a, a:hover, a:focus {
-    text-decoration: none;
-}
-
-.cc-btn:hover, .cc-btn:focus {
+.btn-success {
     background-color: #231f20;
+    border-color: #231f20;
+    text-decoration: none;
+}
+
+.btn-success:hover, 
+.btn-success:focus, 
+.btn-success:active {
+    background-color: #231f20;
+    border-color: #231f20;
+    text-decoration: underline;
 }
