@@ -1609,7 +1609,7 @@ h1.product-title {
 .btn-success {
     background-color: #231f20;
     border-color: #231f20;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .btn-success:hover, 
@@ -1617,5 +1617,11 @@ h1.product-title {
 .btn-success:active {
     background-color: #231f20;
     border-color: #231f20;
+    color: #d6cece;
     text-decoration: underline;
+}
+
+.btn-xs {
+    font-size: 10px;
+
 }
