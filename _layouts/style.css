@@ -1591,7 +1591,6 @@ h1.product-title {
     font-size: 12px;
 }
 
-
 .alert-success a, a:hover, a:focus {
     text-decoration: none;
     color: #ffffff;
@@ -1604,7 +1603,6 @@ h1.product-title {
 .alert-success a:focus {
     text-decoration: underline;
 }
-
 
 .btn-success {
     background-color: #231f20;
@@ -1623,5 +1621,4 @@ h1.product-title {
 
 .btn-xs {
     font-size: 10px;
-
 }
