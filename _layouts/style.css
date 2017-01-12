@@ -1622,3 +1622,7 @@ h1.product-title {
 .btn-xs {
     font-size: 10px;
 }
+
+.alert-dismissable, .alert-dismissible { 
+    padding-right: 15px;
+    }
